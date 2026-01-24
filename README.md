@@ -37,14 +37,20 @@ Install requests if needed:
 
 ```bash
 python -m pip install requests
+export MOCKAROO_API_KEY="<insert the API Key from the classroom>"
 ```
 
 Create `soc_case_builder.py`:
 
 ```python
 import requests
+import os
 
 API_URL = "PASTE_YOUR_MOCKAROO_URL_HERE"
+
+headers = {
+    "X-API-Key": os.environ.get("MOCKAROO_API_KEY")
+}
 
 response = requests.get(API_URL, timeout=10)
 print("Status:", response.status_code)
