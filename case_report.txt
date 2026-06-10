@@ -1,0 +1,3480 @@
+CASE_10361 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: b988ee4c2b1abaa3738ad20226b80f2293ba52bae96db7d41f2a1fde79212c3b (phishy lookalike domain)
+  - FILE_HASH: 9221bce7282e61c396a4493a9cfc12cd08edbcdcbdd26e4af687fe2a199f57cd (seen in firewall logs)
+
+CASE_10316 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 215.33.231.90 (attachment hash)
+  - FILE_HASH: a4ebc83598362b1d74ff57680217c0fa3d2067e3ea13b7ea12bb6f93a0113ce3 (initial report from finance user)
+
+CASE_10306 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7b3e13ff2a7e7fa70800b29a1e32284187bebb42a19e90bf5ab3e8e95f58c847 (test domain referenced in training doc)
+  - FILE_HASH: 08738362b2713903fe18f504516762e6dec36d42e7bf189e0c4cda6575e2d9ca (initial report from finance user)
+  - DOMAIN: boston.com (attachment hash)
+  - DOMAIN: google.pl (test domain referenced in training doc)
+
+CASE_10984 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 237.168.115.62 (seen in firewall logs)
+  - FILE_HASH: 059a02bb5f0c9a8d6b4b9d5aecc17a3f5d29376087caf8e2ea2f7618c0f1945e (phishy lookalike domain)
+
+CASE_10624 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: wordpress.org (phishy lookalike domain)
+  - FILE_HASH: 22e9b6a257dde545aa051ca7a515471440ea8c16777572bb86ca378da5d8df32 (internal host mentioned in email thread)
+
+CASE_10841 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 9510f640260b7f8b9fd9c25276723745e0c37d4763e4ee46da412d61a45335b5 (seen in firewall logs)
+
+CASE_1019 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a30ec4affc43e953fb1843cb15742fe20257e98cc68cc860292fa745af24c17c (phishy lookalike domain)
+  - FILE_HASH: 262d5270ef89661008636e1d32f6ad9998ced66536674ef7476d33207899b11f (initial report from finance user)
+
+CASE_106 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 251e54c746af6c7ea60daf73eb52e7a9abe56168bcf23957919abcd1a22b5c9f (seen in firewall logs)
+  - DOMAIN: springer.com (test domain referenced in training doc)
+
+CASE_10412 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 76f88585c2618e5d7f4067c2fd880fb41cfc3156395baef9661c9dbeae98bc58 (initial report from finance user)
+  - IP: 9.52.237.159 (attachment hash)
+  - FILE_HASH: b1accebe800b4d0c14b0f6de6c89eb92d23c805b44bd38408f447d18b51f98a5 (seen in firewall logs)
+
+CASE_10198 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - DOMAIN: behance.net (initial report from finance user)
+  - DOMAIN: nyu.edu (internal host mentioned in email thread)
+  - FILE_HASH: d1c79da4b35bcea419c015076d18082fadef1bcd0e0c7784a01f240146039d49 (test domain referenced in training doc)
+  - FILE_HASH: 6a3f58bd1c5e7aa61d0985c838dc1ff385ad38536c1d3e31e93bd305eb28fe84 (internal host mentioned in email thread)
+
+CASE_10971 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: d159fdf125a6e7fe672e528c41339b2692cfc290aa04b89d5a8c512614adc5a9 (phishy lookalike domain)
+  - DOMAIN: si.edu (phishy lookalike domain)
+
+CASE_10111 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 56.1.121.242 (seen in firewall logs)
+  - DOMAIN: acquirethisname.com (test domain referenced in training doc)
+  - FILE_HASH: 548e4927569650a5ceda2ffe84b13c5c54ed2bb10c9d7d1533aceae787bcafa5 (test domain referenced in training doc)
+
+CASE_10543 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 6.91.147.12 (seen in firewall logs)
+  - IP: 214.217.213.99 (phishy lookalike domain)
+  - FILE_HASH: d691184f30d0d2410e26696bf0b78e841517282b6de25b73817975c1b34e3211 (test domain referenced in training doc)
+
+CASE_10457 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 13.215.210.121 (seen in firewall logs)
+  - FILE_HASH: d3e98c9dc61d0ecb49b0131ceafa085b7f092b9b0ced5a7422e046c52aa6049a (attachment hash)
+
+CASE_10586 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 1.42.172.45 (seen in firewall logs)
+  - FILE_HASH: 1269e00ef159d99f914b9418a0d3f1728e02991de03e28ab4a9f1af24708abd1 (test domain referenced in training doc)
+  - IP: 254.51.114.52 (seen in firewall logs)
+
+CASE_10686 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: symantec.com (seen in firewall logs)
+  - FILE_HASH: bc4c07f7709dabdafc7ff768ba91a1fec6869e3d12105a3cc2e7a220e48f4179 (attachment hash)
+  - IP: 109.162.167.97 (internal host mentioned in email thread)
+
+CASE_10846 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 765b62859f769e0ea811fa17e479d4c972f2c02effc182521adae93169720cdf (internal host mentioned in email thread)
+
+CASE_10335 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: odnoklassniki.ru (seen in firewall logs)
+  - FILE_HASH: cfc3f8e59a1e976bd2efe87cf359b5caabd8aecd951a3866ad4ce82c6d42446c (attachment hash)
+
+CASE_10886 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 1792bb09c1107cf0b01ec3cfb16f1152024d460d5a327f582d544038b9d27fe2 (attachment hash)
+
+CASE_10284 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: f9f5393b4a6a752e936cf57b1e32c14ab225e42f7ee12c9b50ceef41e3346c92 (seen in firewall logs)
+  - DOMAIN: theglobeandmail.com (initial report from finance user)
+
+CASE_10526 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: wisc.edu (attachment hash)
+  - FILE_HASH: 60be6a68daac764091f9b3f778668e5a74d1752d55acee20908c1d5531b99661 (seen in firewall logs)
+
+CASE_10153 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: b9eec2b7a8f6c0a570fb20d5da521ee1ff2d5eec28daa61926f1357a20c60f17 (phishy lookalike domain)
+
+CASE_10569 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 23c01f8bccdd67216ccdb6298d78b63300d5cbba0ac317ac446aeec9857cc281 (internal host mentioned in email thread)
+
+CASE_1073 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 87.236.18.255 (phishy lookalike domain)
+  - FILE_HASH: ac0fcc4a8e422127f963e151151cd3e04e1dc1d2d5498f1807038fa37e4ca6a1 (initial report from finance user)
+
+CASE_10536 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 676a346307daad7aff20dd6449341c253190fe7d25f71f53a5c2416c6ce83096 (attachment hash)
+  - FILE_HASH: 874699632a6a94ea98726c876134ea90e98f16d87c470ff21c45a89a46815d72 (internal host mentioned in email thread)
+
+CASE_10232 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 1164733e40c7c774fad5331d22e9176270a7d0de03431b83da15f391840fba82 (attachment hash)
+
+CASE_10629 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0c9db752e8201beacee1eb0163b4b6db0ad27df31a2faffa041232efa764a89d (initial report from finance user)
+
+CASE_1031 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e93d83b98070044b3590bfa3f51bcfc9aad9e3a79c7ca91ff6197b226a5b2d0e (seen in firewall logs)
+  - FILE_HASH: e1c4114502e9498cf928e3fa275badd1a64f8c1d0f85545733ccd1b6d31c8138 (phishy lookalike domain)
+  - DOMAIN: privacy.gov.au (attachment hash)
+
+CASE_10460 | NEW | HIGH | artifacts=6
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 18c60de3e42d2cd1bd2aa081f19fde7b3dc49df8920b30aa7b32f894f2f07ef6 (internal host mentioned in email thread)
+  - IP: 196.253.75.198 (test domain referenced in training doc)
+  - FILE_HASH: b1dde850db24dc544ecdb871a5d5a4dfc715221cd90b24e1ba3da41eb05c89d8 (test domain referenced in training doc)
+  - DOMAIN: mapy.cz (initial report from finance user)
+  - DOMAIN: digg.com (initial report from finance user)
+  - FILE_HASH: b66de20aa538eae2015b9ad1fbc771c8057ea29f85c8cda4849a7842c1983f2f (attachment hash)
+
+CASE_10736 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7bd5e1d1e8a8a72600b982ad7c45b8b01f111f605832d744b28cadba78438926 (initial report from finance user)
+  - IP: 86.43.71.108 (seen in firewall logs)
+
+CASE_10130 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - DOMAIN: guardian.co.uk (initial report from finance user)
+  - IP: 177.190.11.64 (seen in firewall logs)
+  - FILE_HASH: 3da35bb3d36fbab06b87827ed5c617e5717f285a7f02b9664eddedc5894f3c82 (internal host mentioned in email thread)
+  - DOMAIN: baidu.com (test domain referenced in training doc)
+
+CASE_1033 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 97.127.38.61 (seen in firewall logs)
+  - FILE_HASH: 8e9538ef13e7747292a8c8aa0fbd8e9a9b1f4d01d318810cb1f0136f5b58d945 (seen in firewall logs)
+  - DOMAIN: nih.gov (internal host mentioned in email thread)
+
+CASE_10875 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: digg.com (attachment hash)
+  - FILE_HASH: ce8f3adba616022c7173e06a31f087a70f62a8a34c312edd076b6c131711dddc (attachment hash)
+  - DOMAIN: vkontakte.ru (internal host mentioned in email thread)
+
+CASE_10262 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: d131521aee5418ad2279ece530673e225f60754f8a3dfa2a8651baa1edbb5db1 (attachment hash)
+
+CASE_10353 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: b84a234bd7683aea3421c471a7f7aec5b906488d65b4e526fde5e1d974307975 (initial report from finance user)
+  - FILE_HASH: 4d0b0331a893d1b72e27e88f7cb9956d071501f10ad7ef1717691b3465e705d7 (attachment hash)
+
+CASE_10938 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 962deb21e306ce53a7685c76c90b64fdf51d550db186d4fee062ea3abb93f777 (internal host mentioned in email thread)
+  - IP: 213.235.159.132 (internal host mentioned in email thread)
+
+CASE_10507 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 98.241.65.25 (internal host mentioned in email thread)
+  - FILE_HASH: 236767f5855e03f407a2190710344c7a2da4cb43d51431fe699a440291779d01 (test domain referenced in training doc)
+  - DOMAIN: sitemeter.com (seen in firewall logs)
+
+CASE_10660 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a6894edc8ddef70ddbb94d9f132e6640ac78123a47f04dc8191c5bd40563f33e (attachment hash)
+  - DOMAIN: weebly.com (phishy lookalike domain)
+
+CASE_10852 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 97.138.81.54 (phishy lookalike domain)
+  - FILE_HASH: 817c3efa17b15c91659f5a7e7b9ab8839ec494fd4733b3e5556f1e549d9ec4d8 (internal host mentioned in email thread)
+  - DOMAIN: hexun.com (internal host mentioned in email thread)
+
+CASE_10392 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 396ac9897c0f4da2d9afe628ab4c6c2171fdf8d209e5d4c93914984d7fbbcc2c (attachment hash)
+  - DOMAIN: ed.gov (internal host mentioned in email thread)
+
+CASE_10739 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: d414ebdb2e31d94fc79d89ce0290a5a9ff3c842769b32377fc42903bf93b5f97 (attachment hash)
+
+CASE_1065 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - IP: 207.190.207.223 (seen in firewall logs)
+  - IP: 236.125.8.128 (attachment hash)
+  - IP: 95.26.177.170 (phishy lookalike domain)
+  - FILE_HASH: c22f763a543763cdbaf9402d2272782d318f5aebe4ffd4737e9782552c62f6c7 (internal host mentioned in email thread)
+
+CASE_10923 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 4f8964aea6b4d7072608f5ec1914f1164df70e27184419f8f05840ca07462666 (seen in firewall logs)
+  - DOMAIN: hao123.com (attachment hash)
+  - IP: 98.78.27.88 (initial report from finance user)
+  - FILE_HASH: 994f96a16efd26cd63944fbcbb56660d3f6bff09575341424221e7297345bc58 (phishy lookalike domain)
+
+CASE_10116 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: bfdf01461d2d30456044ca1884544829827b38c81b8b7bd651fa347fb121ca0d (seen in firewall logs)
+
+CASE_10542 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e9038f4e2a3b6cd4cf84535304a4d334e35100fb7a260f0e46a759841f877419 (seen in firewall logs)
+  - FILE_HASH: 064d8551d0f55e9b71c87df3dc0ca38c78a2bd90f5bc3b95c81089e73b627c7e (seen in firewall logs)
+
+CASE_10693 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8863899b452b0e6c1a0e835db555932a4977bcb619bebe53bb13b73f35bfefb2 (phishy lookalike domain)
+
+CASE_10168 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 014545d65c521b0dbba51c52bb1eb8e5904c5a68ac4d623316e4dcd3ccdbee38 (test domain referenced in training doc)
+
+CASE_10585 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - DOMAIN: is.gd (seen in firewall logs)
+  - FILE_HASH: 4fb24c6708f199ad80b752bdf3e4ca687da7ae385b24bbfb97182ee7b4e53e9f (initial report from finance user)
+  - FILE_HASH: 70447edb61ef8c68b73cf28227205a253dc8da5c9618d7e188ae185d34dc3c8a (internal host mentioned in email thread)
+  - DOMAIN: godaddy.com (attachment hash)
+
+CASE_10625 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 50ed827a7772191f978872f8668a4b37391d173357735e77fe0cd958a36cf5e4 (phishy lookalike domain)
+  - DOMAIN: hexun.com (internal host mentioned in email thread)
+
+CASE_10117 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 5288fc28ae9c9fa38e0c86507a724f442fe5827030476f2834707da019658b63 (initial report from finance user)
+  - DOMAIN: toplist.cz (seen in firewall logs)
+  - FILE_HASH: eecc4431ebcb71ddd166aba83ff3ce2d0d924b7c504a53a0620f393e57e431dc (internal host mentioned in email thread)
+  - DOMAIN: toplist.cz (seen in firewall logs)
+
+CASE_10556 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - DOMAIN: geocities.com (phishy lookalike domain)
+  - DOMAIN: tripadvisor.com (internal host mentioned in email thread)
+  - FILE_HASH: 1a050acaf152909a0e5d2071c11137d41d6d694242928657e4fbbacc4a287259 (initial report from finance user)
+  - IP: 217.131.127.218 (initial report from finance user)
+
+CASE_10830 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 144.95.178.169 (seen in firewall logs)
+  - FILE_HASH: 2057067db67d4b4da3b8dbf1a3f0346e60e77dfc4157f10e95a9bb0a49e41ca5 (test domain referenced in training doc)
+  - FILE_HASH: 4d27a67f1e99696bb3b194c4200ce2feff3336cb342dcf307aca7f9e7707dd8f (internal host mentioned in email thread)
+
+CASE_10350 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: ef8542a02d62c1f30e8eece957f9bd0514079f77e13506ffad62b4d5f4c24005 (phishy lookalike domain)
+
+CASE_10709 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 6a7293f350084bc35702f37e3b84f2cc9a4d2fb4dfc14f57261007ccd50625e3 (attachment hash)
+
+CASE_10715 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: db0ea58793891cb958c1c05b83b4e986dd651db93953779791f08a660e87276a (internal host mentioned in email thread)
+
+CASE_10982 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 57fab581cfa1ca0d36b21288b799523905f210785491a2f4de813f2db4b77d49 (internal host mentioned in email thread)
+
+CASE_10101 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - DOMAIN: sbwire.com (seen in firewall logs)
+  - FILE_HASH: 624ff88fab605e45dbf016c7f76c9c2bfd51d4abea7edc2455e6dbc5af9c30e7 (test domain referenced in training doc)
+  - DOMAIN: techcrunch.com (internal host mentioned in email thread)
+  - FILE_HASH: e9070666643ac97a738f9551aefadfe628ec3b5845e0867cc4ab085da45b953e (attachment hash)
+
+CASE_10840 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 444c72d14a0bfdd1bc020589d15fa8861244ba8488c26664459c4bfa5ea94baf (attachment hash)
+
+CASE_10365 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: c11829909b375509eb56b66ef95877229c272cc348fd8a324568dbd9e35dc7e7 (phishy lookalike domain)
+  - IP: 107.17.173.120 (phishy lookalike domain)
+  - FILE_HASH: 1cef00f8be742522a2586fed9c3811693972f278fbacbb53a79fd2059909545f (test domain referenced in training doc)
+  - IP: 217.228.93.150 (initial report from finance user)
+
+CASE_10990 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cmu.edu (phishy lookalike domain)
+  - FILE_HASH: b623037b80c0393acce8277744b83a91c45548b8de9a1f8d8f3e0597782e91c6 (test domain referenced in training doc)
+
+CASE_10178 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3c145775eb84924dc76403181c628ccaaadd202384c0027371ff6acf2323afbb (test domain referenced in training doc)
+  - DOMAIN: cbslocal.com (initial report from finance user)
+
+CASE_10673 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: etsy.com (seen in firewall logs)
+  - FILE_HASH: a6fb118230b6a8a039458048dca96a7c7f15aa3f44e1b68e1663acc7b5e6810f (attachment hash)
+  - DOMAIN: stumbleupon.com (initial report from finance user)
+
+CASE_108 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 155.132.236.71 (initial report from finance user)
+  - DOMAIN: sciencedaily.com (initial report from finance user)
+  - FILE_HASH: 147af482a8d17f445ae5c61d5a0815ef191ebed159bf0323d32d31a4db75577a (internal host mentioned in email thread)
+
+CASE_1070 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3128cebb9bef7ac6b8661aad160830b78cb923daeb54828337c0c2ea444ddfbf (initial report from finance user)
+
+CASE_10997 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cocolog-nifty.com (initial report from finance user)
+  - IP: 243.23.100.159 (phishy lookalike domain)
+  - FILE_HASH: dfbfea9c9bfc025228dbc506f7edb88a5c298e3bf20cbd03bcdd03da4abe7e94 (initial report from finance user)
+
+CASE_10604 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: d26ecd40248a40fd51f616a355639f5f4e952923001daa0a7b9c63dda34f3d41 (attachment hash)
+
+CASE_10132 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 48e98863f41b2e1100ec139d2edc34e1a8a5736072ff2a01b02b14b2c206cd40 (initial report from finance user)
+
+CASE_10757 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 110.50.17.82 (seen in firewall logs)
+  - FILE_HASH: 153dd5b12dcc61730906b295771f33c8f0982bc31331d12b5bba6115538f7803 (phishy lookalike domain)
+
+CASE_1052 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: techcrunch.com (test domain referenced in training doc)
+  - FILE_HASH: 900f7195f91a06357ee9b343a2bc4ff36666c1b311bac45ec1a32c36d26771bb (internal host mentioned in email thread)
+
+CASE_10803 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 161.121.221.139 (attachment hash)
+  - FILE_HASH: f3e38eba28f64aa84d38a7ce1043a2db9959993c6d8b289fc4a74cf661c8759c (phishy lookalike domain)
+  - IP: 114.45.145.22 (phishy lookalike domain)
+
+CASE_10662 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7da0f89a2f1b5cac5f877f81620af436b7666604b5f574764431d7f90d307ceb (seen in firewall logs)
+
+CASE_10823 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 24b1a6495c43cf9d2ac1d3e3a771228c44d866cb30fd096928e4b34fe49af122 (test domain referenced in training doc)
+
+CASE_10935 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 4131e75057074a37fe76d9c59ad4039cda5f7fd5cc7f52cb64793e49bf56d037 (initial report from finance user)
+  - IP: 116.191.5.164 (phishy lookalike domain)
+
+CASE_10235 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 33e3f23c0be53cb8e0f049419146108dfab1541d4c60afb6103357b081598592 (test domain referenced in training doc)
+  - DOMAIN: icq.com (seen in firewall logs)
+
+CASE_10253 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 59cbb29538c99e309732cbe40a29fb3b7336b37059f28e197e5cd480566e1a34 (test domain referenced in training doc)
+
+CASE_10307 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 9a4e0820883386aa356744497eecf21158f34f9d8b75dcd1a6af127e04bd1629 (attachment hash)
+  - DOMAIN: gizmodo.com (initial report from finance user)
+
+CASE_10407 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: b2b85494a9d238709dfe0a1cf32527e29e1bf639d655041c145c7b7286e5846d (internal host mentioned in email thread)
+  - DOMAIN: nationalgeographic.com (initial report from finance user)
+
+CASE_10220 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: reuters.com (test domain referenced in training doc)
+  - FILE_HASH: 767e3b8eaa88f1ef99f8361b1d86a48d6e94a2af1d131a499e1912c3384e56d3 (test domain referenced in training doc)
+  - DOMAIN: toplist.cz (phishy lookalike domain)
+
+CASE_1059 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 207.52.236.25 (initial report from finance user)
+  - FILE_HASH: 3e1507e993e20603e06b134b0fb475528a18c3947b664822385ef963e2f8eb40 (test domain referenced in training doc)
+  - FILE_HASH: 820cdb62182b0d5d37b99632d44e135616dae49aae3cca84bc0e29be8ca33ca9 (internal host mentioned in email thread)
+
+CASE_10227 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 63af78bba75fa27f03aeb94aefd48c58603d95b30d7b44195ed2d14447101ab7 (test domain referenced in training doc)
+
+CASE_10734 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 9815aa6d1bf68019852751bc0a94e6fef2e194b61d53606bc3229e5e9d7f8559 (seen in firewall logs)
+  - FILE_HASH: 898ad917148b0af166f75b17cad5e005cab0e63505ea951028ab4529afb8580a (test domain referenced in training doc)
+  - DOMAIN: chron.com (seen in firewall logs)
+
+CASE_10606 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 9c9e45921bbd68f14b0557ac122f0560b52332414b826391f07b4780baeefd64 (test domain referenced in training doc)
+  - FILE_HASH: 0a67b263709caea17ae00031292bf5f25ee913c6172be3a1c2a9053f51981573 (initial report from finance user)
+
+CASE_10359 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0f88f6d19a182ef762d5414f5dc21bdfd9b9bb026b61a665f4eb0e6489e4a264 (internal host mentioned in email thread)
+
+CASE_10417 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 250.125.2.150 (internal host mentioned in email thread)
+  - FILE_HASH: 2a6eec7678960d682eefe67a5854efbd7e28706b97ef7cd313069b341aa887f1 (seen in firewall logs)
+  - IP: 147.138.48.182 (initial report from finance user)
+
+CASE_10174 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: f343d8c06ac84b3ffdb5f4675a8eed9b39a7bac3b355cad81b57a47ef0970014 (seen in firewall logs)
+  - FILE_HASH: 99edb54ffec5f5f499a20e175e994eadc0a1de28ad643d729175d317cfc6b05e (test domain referenced in training doc)
+  - IP: 241.255.153.226 (internal host mentioned in email thread)
+
+CASE_10482 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: f567f4c3e200814773b36837de06d37b0908ac2174dbcd9e47edf379f23c8abe (test domain referenced in training doc)
+
+CASE_10581 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 59845a2d0f8e91c6afbc249fc4cfc860a641b0b93ca14c8405b1700b0db0fb3e (test domain referenced in training doc)
+
+CASE_10602 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2b67d8fa3051e924f01342d26cb5feebfbe992afafb01441715645f01c4045c6 (seen in firewall logs)
+
+CASE_10231 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8f93e8a671d9f0f31375914e441a5519e7d2418aaf5a11f03de8cb88283bca03 (phishy lookalike domain)
+
+CASE_1082 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 168.215.231.220 (phishy lookalike domain)
+  - FILE_HASH: 3aebbc898985ada8e21f9956cf6b0e639725f6aac3a546b74f1bf340bacd62fb (seen in firewall logs)
+
+CASE_10960 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 35d0e7f50553a3f47125c1360e69f38d1c797a699f93156b84090fcfc34335f6 (initial report from finance user)
+  - DOMAIN: a8.net (initial report from finance user)
+
+CASE_10113 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 43ed0ea30463973dbc141a5d7557a9ade8cad55ef06d091343ba64f8dd739072 (internal host mentioned in email thread)
+
+CASE_1079 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2a770cd18c82d668309661e80d1d3cf28f623d44b15e45ec312cf2c4d03b10d7 (attachment hash)
+
+CASE_10570 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: fa3c762fd69cd692f897557d7ad9428159bf0b856d282f11e33b82a22dd8a355 (phishy lookalike domain)
+  - FILE_HASH: ecdaa3e585b4de46424e7d46fc074121a3d6648a2f25ec4bc455bf5f5d5d89c4 (test domain referenced in training doc)
+
+CASE_1044 | NEW | HIGH | artifacts=5
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: db694a0c4af293a6b662fb87e0e145bf7217343158b437966eb5c8c0876b4071 (internal host mentioned in email thread)
+  - DOMAIN: histats.com (phishy lookalike domain)
+  - DOMAIN: linkedin.com (phishy lookalike domain)
+  - FILE_HASH: 2183296b8f5cb15142d456ba43ef2e79d9389f0369f95818addbdc754ef7f67a (phishy lookalike domain)
+  - FILE_HASH: a9758c2dc6297b98028888b24e0927612ad417cd560aef1a6eeb505d6ed44e6b (test domain referenced in training doc)
+
+CASE_10213 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e94b29c93316923b30aa637891cf35fc554932ed47a73a29bb92369fde5f58d9 (phishy lookalike domain)
+  - DOMAIN: biblegateway.com (phishy lookalike domain)
+  - IP: 187.141.183.206 (phishy lookalike domain)
+
+CASE_10766 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2b566316ca7a7b3b0f11697ef11a87d50ee9aaeb450c92d71fe520c4f3865a52 (seen in firewall logs)
+  - DOMAIN: google.it (internal host mentioned in email thread)
+
+CASE_10237 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 91688ed54fae96fc72ab0384c040908bace0df06ffc041ee951453359477b241 (initial report from finance user)
+  - IP: 126.13.197.195 (internal host mentioned in email thread)
+
+CASE_1018 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7c7d8080f6a8133071742f8928e7ea6323891867e1d4fbd11dffd70c7e882565 (test domain referenced in training doc)
+  - DOMAIN: meetup.com (test domain referenced in training doc)
+
+CASE_10394 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 89756739f1c7940bc50e160e3c3413cc3fd54190e966d1da1560853bc6827f07 (phishy lookalike domain)
+
+CASE_10942 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - IP: 107.84.14.191 (seen in firewall logs)
+  - FILE_HASH: c5910754d0ab3ac2adc06ceb92951abeb45c214edf3775f398afbde11fbc1363 (initial report from finance user)
+  - FILE_HASH: 82e8f8de96e05ec66d7f14460043101868fae7b609ba5d4f1a3d9341c2f833f4 (initial report from finance user)
+  - IP: 23.21.61.112 (attachment hash)
+
+CASE_10896 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cocolog-nifty.com (internal host mentioned in email thread)
+  - FILE_HASH: c7a97a2c277a332aef1d9b25ebd618b7b5ae6e28c370fb0f96d01996a22562ba (phishy lookalike domain)
+
+CASE_10218 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0acf2b6342ea48f41be1e4cc24bd8d85b27ec76e08a11098d5ad29fa5d6cd321 (attachment hash)
+  - IP: 203.101.253.39 (internal host mentioned in email thread)
+  - FILE_HASH: 23e027802e28c69f86670f0e257bf9d486cdfff3dc6abfd6c35e42032fbdf58a (test domain referenced in training doc)
+
+CASE_1089 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0f724140e2785f61a2e9a92f4eaa6f4cd99fd0727bf02ff81bde137e32516c41 (phishy lookalike domain)
+
+CASE_10955 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 75ec83d7d2689844493db9f636782f1ad3c8dca573d6a2b5151db949638ede06 (test domain referenced in training doc)
+
+CASE_1051 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: f2fcce6143fe2112d831cfd5340056c7fa4834cd776000c828f420185e104828 (attachment hash)
+
+CASE_10552 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: df7bdcb0aeefceb000d0b4d0664be996ab0e4f49d4895de5f6838e442602668c (internal host mentioned in email thread)
+
+CASE_10347 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: db5284c942c5910e7ce530b40b82c30747d5b87a62a7f1a43b63ee2ebad08bf9 (seen in firewall logs)
+
+CASE_10485 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2aced994f7c0f9975edae28e84b8646fe9ea88f072e3e1310560924873446ed0 (phishy lookalike domain)
+
+CASE_10120 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0da8b4c98d5fb46a8e2eebb63bd52b32ab31aafc72e0000620150d73cd1d8405 (test domain referenced in training doc)
+  - FILE_HASH: 464e20b7e6b5964d68fad8ef9a38a64d602587745b61d04fe80ca0b56774b412 (initial report from finance user)
+
+CASE_10888 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 9794ed60f65843c3c679df2164a05147843474771f13041f81a75009503c8124 (attachment hash)
+
+CASE_10957 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: d1cf59402a972b1bdcd7f6622367a0673bd373bef5b9adedbcebfd5b5633482c (seen in firewall logs)
+  - IP: 194.148.227.148 (attachment hash)
+
+CASE_10590 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 73.193.127.119 (phishy lookalike domain)
+  - FILE_HASH: 42ba523179765ded271e61bf1adcab1cb4d18e7626e65502efeb3ade310814d9 (test domain referenced in training doc)
+  - DOMAIN: boston.com (test domain referenced in training doc)
+
+CASE_10467 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: ed67d15c1f19160dceb199d68dee17338d51a45f203f3190660a9419293f4401 (phishy lookalike domain)
+
+CASE_10810 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: aa8b96c2bf6730fb6fbec7322bfb53cc0b04c800b9c95bdcc99dffe73d06102b (phishy lookalike domain)
+  - FILE_HASH: 3ab9aa83e20ca1ef8fd92c02543ca26da4fd7b0635735183b67dfd1e12d6616b (attachment hash)
+
+CASE_10817 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 190.68.77.122 (initial report from finance user)
+  - FILE_HASH: 2a241c2f6793f0473259e11f57565140c954797f4aa85001eebd6b9fed295832 (initial report from finance user)
+
+CASE_10287 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 11ec72ea7ea29c2379a48055d0b4ede6d3a9cb9a2902f401fee40a48da5e46f4 (internal host mentioned in email thread)
+  - IP: 120.40.240.140 (initial report from finance user)
+  - DOMAIN: archive.org (phishy lookalike domain)
+  - FILE_HASH: 3287ddc032fc4ff75600059e399615ff15854235f498edecf405c6d3d2c7cdfe (phishy lookalike domain)
+
+CASE_10943 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 123.139.195.223 (phishy lookalike domain)
+  - IP: 31.90.104.46 (internal host mentioned in email thread)
+  - FILE_HASH: 7c17dba1b74ca9118217fe7935ff3df8e50e5256c0ba9cce1a2224029ca65e69 (internal host mentioned in email thread)
+
+CASE_10787 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 58430bd89f988fe72074f01515ff8f2e4e77180c2ac8e25caf5684ea44856248 (initial report from finance user)
+
+CASE_10782 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - DOMAIN: themeforest.net (initial report from finance user)
+  - FILE_HASH: fd366394ef6eef9b42ce83fe9c4bd8a487b1ca79576ac98a64b18216b3d8b598 (seen in firewall logs)
+  - IP: 130.87.208.79 (initial report from finance user)
+  - DOMAIN: instagram.com (test domain referenced in training doc)
+
+CASE_10684 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 042aed670a7647e6b78bb0ddee1e08952e943b14f8250b4bee730f29db596b7e (internal host mentioned in email thread)
+
+CASE_10465 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 56c8e648257f3ac085d5e6290d0fc5ceccd6f555c3d1b0b69a766b5c37020d51 (attachment hash)
+
+CASE_10386 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: sakura.ne.jp (seen in firewall logs)
+  - FILE_HASH: cde35c94dd867c0388f1843d1e0b80e3c9f82c6ecea2b45602ff970261116dfd (initial report from finance user)
+  - FILE_HASH: ca3f35fe93e7ca067e2fc823c41a432961a08e9cfc562781700d85b18203e69a (initial report from finance user)
+
+CASE_10479 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: slideshare.net (phishy lookalike domain)
+  - FILE_HASH: 58420a591741189f1981917e07672fc0dabd33b237bc8f3afa0fa1b21a0d44a9 (seen in firewall logs)
+
+CASE_10293 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8bba236cdcf59a82e3b1de8ff003b20bde9e02b3ff10f1ea5da8cc3f963af9e7 (test domain referenced in training doc)
+
+CASE_10134 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 44e22617fbbfbfb4b06573aee17404c327d9fb26c5cca8d889be1297a6ad034b (initial report from finance user)
+  - FILE_HASH: 345edac1c561b9c6250ae7d9ec132d33ca02461d25d91fa67b98c131ab013922 (attachment hash)
+  - DOMAIN: illinois.edu (initial report from finance user)
+  - IP: 189.27.212.61 (seen in firewall logs)
+
+CASE_10898 | NEW | HIGH | artifacts=5
+------------------------------------------------
+Artifacts:
+  - DOMAIN: mashable.com (initial report from finance user)
+  - DOMAIN: utexas.edu (initial report from finance user)
+  - FILE_HASH: cb4c194a440c7ff4a25a3abb718960be3bcd8904e5333b0b3701d6ac4bf61334 (phishy lookalike domain)
+  - FILE_HASH: e7d64f7e3b50e35fe560ee3333b2f9d6353f8e310e11ffdd68ba179166dbbc62 (initial report from finance user)
+  - DOMAIN: 4shared.com (seen in firewall logs)
+
+CASE_10988 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8cb08224f95c6c68ef460ecd72bd3feee47e0754dd9549de2d405fef9c80d22d (test domain referenced in training doc)
+
+CASE_10144 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 35cb0e5494caeeedb02163e61a68fa1c96161f188b08d200e2c338490c4f26a9 (attachment hash)
+  - FILE_HASH: 56feac121f5eca49c817f9099242783daa60f1c06a44f994d7eb49198e78b647 (internal host mentioned in email thread)
+
+CASE_10681 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 82fa76774372979a771e19dbe6cca3d3b16a6203b0d94ff27c1fc589dffd6fa5 (test domain referenced in training doc)
+  - DOMAIN: bbc.co.uk (phishy lookalike domain)
+
+CASE_10513 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e786b0ea95c2d35014f2350d6f6559758cafc06ed085913ce605b86eae6d1160 (seen in firewall logs)
+
+CASE_10313 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 07ce122036733d26ceabce7ad77d3feee974068e09f1c4daad7066bcf068f0ec (test domain referenced in training doc)
+
+CASE_10653 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: f8c37d3923877295718f7af710c7e9bf57c279a230634a4507afabe50c321ed9 (test domain referenced in training doc)
+
+CASE_10119 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: vkontakte.ru (seen in firewall logs)
+  - FILE_HASH: ec2647ae3813c853f546eae51358e49f764ebf53e598b3310787f81188380ead (internal host mentioned in email thread)
+
+CASE_10124 | NEW | HIGH | artifacts=5
+------------------------------------------------
+Artifacts:
+  - DOMAIN: privacy.gov.au (attachment hash)
+  - IP: 105.17.62.94 (seen in firewall logs)
+  - DOMAIN: hostgator.com (internal host mentioned in email thread)
+  - DOMAIN: digg.com (initial report from finance user)
+  - FILE_HASH: 23ace3a522a764daa44fbf12501e8cb45665b35efcb99f9b6127d8f04acd2d5c (initial report from finance user)
+
+CASE_10408 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 82f2b20e7511c6c5484069524dbe05b1b9e6008549998e844fd92e90af9de99f (initial report from finance user)
+
+CASE_1022 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: github.com (internal host mentioned in email thread)
+  - FILE_HASH: abdf6429ba5e01250ef9e9c281e53c14ba967779276d3237c10b7f0971c4c6ba (initial report from finance user)
+
+CASE_10831 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 156.119.196.196 (test domain referenced in training doc)
+  - FILE_HASH: 1eaa716ac337c800b3cd173ed8fc65a64fc291a298ca7b08ce53128f009aad64 (phishy lookalike domain)
+
+CASE_10753 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: yale.edu (seen in firewall logs)
+  - FILE_HASH: 55fafd75ef7a50435c27146314bfd88a53f270739a11cb1744668978cd123f52 (attachment hash)
+
+CASE_10707 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 860567b8c25f09d781f3bc7f238317c5b1e532a1cc80f2210d0f06fcc1b45126 (test domain referenced in training doc)
+  - IP: 203.52.166.102 (internal host mentioned in email thread)
+
+CASE_1081 | NEW | HIGH | artifacts=5
+------------------------------------------------
+Artifacts:
+  - IP: 71.92.83.195 (phishy lookalike domain)
+  - DOMAIN: youtu.be (internal host mentioned in email thread)
+  - DOMAIN: wix.com (phishy lookalike domain)
+  - FILE_HASH: c4372fa60439797d3070099b18849872288a3416ed207609734c2a791efa9f20 (internal host mentioned in email thread)
+  - FILE_HASH: 5d0733fdc791fbae123f53f2b24193cf33f4ad7009ef1a7b9fbee299668c7f1d (test domain referenced in training doc)
+
+CASE_10648 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: mlb.com (internal host mentioned in email thread)
+  - FILE_HASH: 996e4cbd57ff993d2e7283470c6efe82fd73a4d2e16ff85a74eba5e9949dcd2a (phishy lookalike domain)
+  - DOMAIN: tuttocitta.it (internal host mentioned in email thread)
+
+CASE_10809 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8cea9570e3953a83785a3a292118112130e505819de541c25d1e1981a14fcc9e (internal host mentioned in email thread)
+  - DOMAIN: sakura.ne.jp (initial report from finance user)
+
+CASE_10255 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 63ce66cf5102d3bf3756a579bd82173e4ba694caf654612c25ff056ca750a7c8 (phishy lookalike domain)
+
+CASE_10723 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - IP: 100.3.229.180 (seen in firewall logs)
+  - FILE_HASH: 83e32565fc0ec98f95957f5645f4d681119864b42f7dc777a8dd421e90edc292 (internal host mentioned in email thread)
+  - FILE_HASH: 7d6756f7a612d252d33a85df0db5159eb81d607c8e37958fa6f2cc1f71ed1478 (initial report from finance user)
+  - DOMAIN: geocities.jp (phishy lookalike domain)
+
+CASE_10849 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: d233b5c4743246ddec88b18d789b9959da4419de0e1d26e6c5d1367278c1956f (attachment hash)
+  - IP: 97.240.138.183 (phishy lookalike domain)
+
+CASE_10559 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 129.217.65.131 (initial report from finance user)
+  - FILE_HASH: 5041531a2c408aac9d80fb7d974952e41866603b2c0e4da41dc651d3d922b94c (attachment hash)
+
+CASE_1063 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0a3c6e352548029f6eb29f309b7ec595ef69236de44c761b6648aae997dcbaa6 (seen in firewall logs)
+  - DOMAIN: spotify.com (seen in firewall logs)
+
+CASE_10696 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 24.59.53.188 (initial report from finance user)
+  - FILE_HASH: f2a09da565a8497746d1beaf9b1602f4cc50274835c381676c1ca73ea1ff1d35 (attachment hash)
+
+CASE_10959 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 9bbd39e2b3ab529fa355f3e2430013ac7dd84526a9ed79fa3a327aca944e47a9 (attachment hash)
+  - DOMAIN: list-manage.com (phishy lookalike domain)
+
+CASE_10151 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 226b9649866054109003439e145f185268de6cf9c7c23896cb78e9f07c0a4974 (phishy lookalike domain)
+
+CASE_101 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: com.com (seen in firewall logs)
+  - FILE_HASH: 94d5e99cfe5d01b18856a49db6ac24925eb4e381f4308801f271b7c75f1012f0 (test domain referenced in training doc)
+  - IP: 135.180.52.194 (test domain referenced in training doc)
+
+CASE_10998 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 144.215.8.54 (internal host mentioned in email thread)
+  - FILE_HASH: 29fe7ad7dea9a10d24b751125b0d668bc9bbd413ce00dc92adcd670c4236713d (test domain referenced in training doc)
+
+CASE_10876 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: ef6858043b8c1681be555e421906a76383cfd9670fc680776ca22afc6ef18b49 (attachment hash)
+
+CASE_10351 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: dd9ea7c4828619398e184b81dc6c9e5e73c918e4701295980bf413760064ef46 (seen in firewall logs)
+
+CASE_10843 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 204a60891b576fd29f3556628558a43dcf8baf27e2439e039aabf5fcacc5118e (attachment hash)
+  - DOMAIN: engadget.com (phishy lookalike domain)
+
+CASE_10340 | NEW | HIGH | artifacts=6
+------------------------------------------------
+Artifacts:
+  - DOMAIN: behance.net (attachment hash)
+  - IP: 84.97.9.15 (initial report from finance user)
+  - FILE_HASH: 9665c8dd7e3f6b6e446de12828134e3b9253c43faa7ec97a49720db408b35ac0 (phishy lookalike domain)
+  - FILE_HASH: adaad43df3dd059618b038db0974ddd081513cf94b6f1d8f7efa92104e2a6df4 (attachment hash)
+  - DOMAIN: qq.com (internal host mentioned in email thread)
+  - DOMAIN: geocities.com (phishy lookalike domain)
+
+CASE_10228 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 196.158.71.184 (attachment hash)
+  - FILE_HASH: 163a52204b09e1992efebad233c34029c4ffb3b7b7e49e6942e3b159573914e0 (test domain referenced in training doc)
+
+CASE_10966 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: bbeeb089843c835be1b2323e60a2a07d37b960a4b4f766302747ae8b8076221b (seen in firewall logs)
+  - DOMAIN: patch.com (initial report from finance user)
+
+CASE_10856 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - DOMAIN: devhub.com (test domain referenced in training doc)
+  - FILE_HASH: 8f42555fc1ad900fb93bd0f8b443becc21b73bcec2c21625a4889a5862618b53 (seen in firewall logs)
+  - FILE_HASH: 6502455f94978651a8b571b537ef178363a9e4160184e56578c69b139371d5bc (internal host mentioned in email thread)
+  - FILE_HASH: 7d0385dad7dc6302ae134c53002bf4b29f6cea52657bd8baea3c59d1c40d1289 (attachment hash)
+
+CASE_10756 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8ae288e2b726b6d6bde65a5d7a72060b14865a31cf2e3b6b9aed5c26d58aa69c (phishy lookalike domain)
+  - FILE_HASH: 29a0453f5fddfa569d0220f8a1c742bb32fec35eaaee348c6056ca25fb0bf8de (phishy lookalike domain)
+
+CASE_10100 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: list-manage.com (phishy lookalike domain)
+  - FILE_HASH: 99e2e769981b0a454e4d4009360b9f02ff7a69ea454095ec16678b5e8ce69094 (internal host mentioned in email thread)
+
+CASE_10300 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 08d8f9a344b37ff1fe6538632f4cb91c3f6693356ae891f16d00f8771de8154d (seen in firewall logs)
+  - IP: 242.63.206.230 (phishy lookalike domain)
+  - FILE_HASH: 4e3982479f753bde68a420b01451117170eafac22a9ba6659a776854a151bc88 (test domain referenced in training doc)
+
+CASE_10280 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - IP: 18.45.19.44 (attachment hash)
+  - DOMAIN: quantcast.com (test domain referenced in training doc)
+  - FILE_HASH: 4917c3a8f8e76a9f4eee9bd2253e87e903471675298ab995705bd74ed0cd26f5 (seen in firewall logs)
+  - DOMAIN: histats.com (internal host mentioned in email thread)
+
+CASE_1066 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 238.181.117.102 (internal host mentioned in email thread)
+  - DOMAIN: samsung.com (seen in firewall logs)
+  - FILE_HASH: 9bde013752b2eee41d405f84d2dd1c23c96fb792794958916e6430ec215eef97 (attachment hash)
+
+CASE_10599 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: ed90e06d54a125db0604b55425b823699475ec965f2ab54e4f53d321955bab46 (internal host mentioned in email thread)
+  - IP: 145.110.5.241 (attachment hash)
+
+CASE_10385 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 6cff2ee8e769f272998d28c63d5b3cc7c77cada762c2c286e4f8666bc1ce744f (seen in firewall logs)
+
+CASE_10887 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: hao123.com (internal host mentioned in email thread)
+  - IP: 196.161.75.71 (initial report from finance user)
+  - FILE_HASH: 2e8d5a2570157450e3f751638e5cabd470ba68596dff931455279306aa0eed61 (internal host mentioned in email thread)
+
+CASE_10328 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 5fa06c35ae738f73f5be2445c590dbb4ae6d96bd3ab16640dc69df4f4bd881c0 (phishy lookalike domain)
+
+CASE_10872 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e62a0e59b721996f82e75b1a80e15a23bc1dd4c74203348ac9b6bdd2178fffa4 (seen in firewall logs)
+
+CASE_10106 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: auda.org.au (attachment hash)
+  - DOMAIN: addthis.com (initial report from finance user)
+  - FILE_HASH: 6320e48fb9ef1cb5226086a0a7b7a246c1c9a314702f91e23002dddaec1dc340 (initial report from finance user)
+
+CASE_10949 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0cfd78847989634d22edadef5468b55a23141c83b38471b498a9e7574472a10f (seen in firewall logs)
+
+CASE_10490 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 1094772bb991496c90b2b94e4bd81c53ad909b70ae1956d07ccea263ba035a7e (internal host mentioned in email thread)
+
+CASE_10640 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 02f26934d55f49d5bdcef1acbcf38596aea51057af5241d6a34a566d7683b3ca (attachment hash)
+
+CASE_10118 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 29fbd84189c828d0593ce575a5bc67a48c3ed4741a8c0429b10986691d9b5b8f (attachment hash)
+  - IP: 237.235.161.94 (initial report from finance user)
+
+CASE_10257 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 803fea1b6f32e1eb1cc9e657d4ae919c429dbf17021a13d517076fe3335310b2 (seen in firewall logs)
+  - IP: 86.111.100.71 (phishy lookalike domain)
+
+CASE_10129 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 202f3ee733ece9a68c1745c938fc7a0daac5a0885d24991a872f8ccfc4b85b6a (test domain referenced in training doc)
+  - FILE_HASH: 65aa4ef72800d5c5d9a1923c0c32093b06e24d249d1696ccb6fe3050c4ca481e (initial report from finance user)
+
+CASE_1094 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 60.120.9.223 (internal host mentioned in email thread)
+  - FILE_HASH: cba24447c1bf2436d0ff037b8b8591b18f0951db01312ac02cb2aa20dee1e4e2 (phishy lookalike domain)
+
+CASE_1013 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: ab604c2e4573f6c866ebb79dc445698de68156ac7ad3e97fa9ca47f33099e8e6 (phishy lookalike domain)
+  - DOMAIN: jigsy.com (phishy lookalike domain)
+
+CASE_10598 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ameblo.jp (initial report from finance user)
+  - FILE_HASH: c8e9ac0cd4071bbb54476c01b3e7b99603ebbf9ee7294aded2ccf1018ae68292 (phishy lookalike domain)
+
+CASE_10195 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a2babe182fb4999c00caf90fdf29acfb20d2b6a1bc3c9a37298b36ca97f52a53 (initial report from finance user)
+
+CASE_10726 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2cd3967ca6f168c85a499a89440dc0e7bc36eae1bba02ba6af1cd6ed7ae510b5 (attachment hash)
+  - FILE_HASH: 97117cb651421fee2cbfbe7a96027d15f2d991846c739c34e4f47d36b98c55cc (attachment hash)
+
+CASE_10161 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: wikia.com (test domain referenced in training doc)
+  - FILE_HASH: 6c6a88142b27255d1f721e099fe7c6641f879feac80b784368788fb5e09a0de0 (test domain referenced in training doc)
+  - DOMAIN: cnet.com (attachment hash)
+
+CASE_1087 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 4409718d1d5e6b7df98c037a1bfa2f6ea14dcbd21567ed731311a2ae42743eb0 (attachment hash)
+  - DOMAIN: vimeo.com (internal host mentioned in email thread)
+
+CASE_10933 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: scribd.com (attachment hash)
+  - FILE_HASH: f49f324064953805c282da3418bd338ce590bc4fa988a245db312d32dc33441c (initial report from finance user)
+  - IP: 188.240.124.104 (phishy lookalike domain)
+
+CASE_10345 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 99a9d88fbd352f3a96a4d0c3f31bea74827fb2fdfb39083a66d5040c06a13393 (attachment hash)
+
+CASE_10608 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 51d49b95a6259331f69ca7131b734d06502d232b6e0e07aaacc8647d3d168ede (test domain referenced in training doc)
+
+CASE_10864 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: bing.com (attachment hash)
+  - DOMAIN: slideshare.net (phishy lookalike domain)
+  - FILE_HASH: 2f597fbe770ed2bd7d63352c0f4a968c08b7ed3468350c7556aaa1706a034284 (seen in firewall logs)
+
+CASE_10149 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 02025d7eab7bc380bc7cc09e03b7f173468b75c14c8a64263cef94bd7178118a (initial report from finance user)
+  - FILE_HASH: 0071123dc2120b04b095bc2c9dc215b0cb4855849c203fe9d90ab6eb40e78403 (attachment hash)
+
+CASE_10233 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2a43584557ac534f793d173fc04c579b7b1e74e30c0be59be19f62c0f4383e75 (seen in firewall logs)
+  - DOMAIN: baidu.com (initial report from finance user)
+
+CASE_10912 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 734ee536b0f7d3bb74804ecd69ff17716d748ca1a3cd32aeed0fe013567b4b7e (internal host mentioned in email thread)
+  - FILE_HASH: 27c3082714d175389a287074dd7928a2bf2b286e1901538498e8943fbc6fb237 (seen in firewall logs)
+
+CASE_10185 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 4cbf4643841a0864bd8e3486a17e0fc825d27d455524038344263ee9e78190fe (attachment hash)
+
+CASE_10822 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: aeca11f4d6a018328ad178d23de00e3250acf34fc17863bdb071e95ee9cd95ff (test domain referenced in training doc)
+
+CASE_10806 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 24cdb72e885fbc3633c3642d1507be6d26a8dea7c579f4d5707f9ea5eb7cdddc (internal host mentioned in email thread)
+  - IP: 3.209.63.76 (phishy lookalike domain)
+
+CASE_10327 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 146.117.75.89 (phishy lookalike domain)
+  - FILE_HASH: 64829961e0cf1dc606eefee6bb909a094683ea0607f26ca14959bb3858fcf796 (seen in firewall logs)
+
+CASE_10138 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3760f82db0d750d1ee75e9ebcdb3a7140351451c8cd6857010165b13d8dbce15 (internal host mentioned in email thread)
+
+CASE_1024 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3a0d3bb6bb9fa8cd2a7a6ee9efe4ac9931be3c9f4e5b627cb572fa99c4c5e853 (attachment hash)
+
+CASE_10730 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7befed52c1cfe89ee18c45cb42ea491dea47660190d1205bf53b264e1f5459e2 (initial report from finance user)
+  - DOMAIN: theguardian.com (test domain referenced in training doc)
+
+CASE_1058 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a3cdde87bf5c517a26be3c02f944705745822c61ab9f73b16bcdbfea6dda5520 (initial report from finance user)
+
+CASE_102 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: github.com (test domain referenced in training doc)
+  - FILE_HASH: 9e3a0acd70d9fca65fe5cf2a84956b35b747c475d855d4699e4102c3c7d04f7f (phishy lookalike domain)
+
+CASE_10845 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 6e05da16cd16db197bd85a431780574a259c85993b486822f0d469cf010d1cc3 (attachment hash)
+  - IP: 91.204.108.188 (phishy lookalike domain)
+  - IP: 120.214.96.189 (internal host mentioned in email thread)
+
+CASE_10474 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: gravatar.com (phishy lookalike domain)
+  - FILE_HASH: 361c6f5f4c434414265210cd9a5c121a7245b6d7cf3f48ee8352e4648945a719 (initial report from finance user)
+
+CASE_10511 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: b8f5a2c76d366a8fcb3815293dd50e3dc2edfd992c371b0d4bc86e838bc4b841 (test domain referenced in training doc)
+
+CASE_10428 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 6823c5ca8862780a4fef4967e16c47f4f4c93c773332bc19973b6c8bec1f9b50 (internal host mentioned in email thread)
+
+CASE_10946 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 68.199.154.20 (initial report from finance user)
+  - FILE_HASH: b92dc70150031614fe3753449a948cbacc05e70229cf0e4fc5a1e86f51f13872 (initial report from finance user)
+
+CASE_10695 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a3bbbfabd1e925774f13f80857479a605cebd247977daf1c231ae7efa38da2d0 (attachment hash)
+  - FILE_HASH: e980d6113dd0391da1cdcb9725488ba68595bdab27ba2abefb47bbd95ace24f7 (phishy lookalike domain)
+
+CASE_10975 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: fe824022b55d2a8f294103404bd20645f89dc114e3cf68bae0d4835b641ae11a (attachment hash)
+
+CASE_1083 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 222.161.0.214 (attachment hash)
+  - FILE_HASH: 83c5f6f74e1150464d4ff28cdb212b5a5d1197cf0aa717f214557db7cb732553 (phishy lookalike domain)
+  - IP: 31.113.161.142 (initial report from finance user)
+
+CASE_1067 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 93b6a2cf899edd6d64f8605a57f0e361cd7a26a5d6cebd5848a722ab24a5c34d (internal host mentioned in email thread)
+  - FILE_HASH: c48b7bdaca3ed5419751c4be64c511060bbe6da9023754c7e9fe0ea9755ef9f2 (test domain referenced in training doc)
+
+CASE_10819 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2648d85f05c43bb4eac843bc10195bc4e1dd644c31c4484502eb02c4f1dacdf6 (phishy lookalike domain)
+
+CASE_10302 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8ea60985c4f5b8be2abd5a9cfe1c5c878ada8bce6bb570091e8c8099df736571 (test domain referenced in training doc)
+
+CASE_10578 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7dd4c1033e6da5b7e08d1c5c62fc2ab5c5f106f39c10fbfdb7760a8c58d24258 (attachment hash)
+
+CASE_10205 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: utexas.edu (phishy lookalike domain)
+  - FILE_HASH: a738995d43a5f2adeaff9b95ed559bba0d6efec8a7a898bb4bdd62725d2e23ed (initial report from finance user)
+
+CASE_10458 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7703a2a3d3d3ca5b857aea952c065f5fc514c90e30f00d1ee5772fe83ed2082d (phishy lookalike domain)
+  - IP: 186.98.34.174 (internal host mentioned in email thread)
+
+CASE_10677 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 654a54251aa56faeac522e3a1b0838b178e227163acec405e75ebe6381fdcdea (initial report from finance user)
+
+CASE_10612 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a5d6cf10d60e52e26f4d2a279dd02147fd3d0da592a27655146efe12a89a870d (seen in firewall logs)
+  - IP: 140.177.185.26 (seen in firewall logs)
+
+CASE_10221 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a16336acc9a019fe274742c527ab704eb65fae0989ecea6ac345404bff4b792c (initial report from finance user)
+
+CASE_10420 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: c3f5d72765bc40a78259c682ec9c5d5b5155a8578841874af07c77d04bbc5641 (phishy lookalike domain)
+
+CASE_10123 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0ee2962054460b3b2b0ccc388ea6c8028cd56ab1ccca11208704487d7a5e6b3b (attachment hash)
+
+CASE_10751 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: caa06ebc5aec6dd75814e0f7162828abdd06b82dbd72171a10068c2dc478e401 (internal host mentioned in email thread)
+  - DOMAIN: barnesandnoble.com (phishy lookalike domain)
+
+CASE_1096 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 9760fbca0e001888c8bfee5fba9dd1ef740095f29ac4f869feb6dc0a396b8e09 (phishy lookalike domain)
+
+CASE_10395 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 023e5c9fb33ab2bd9cd06a017058fd8627cac2beddfd643f1ef7fdb03cb51dcc (internal host mentioned in email thread)
+
+CASE_10370 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 6250e2c919068db2ce970d9904ecbe9ade57f392eeb5db4ddd885258611f9e31 (initial report from finance user)
+
+CASE_10615 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 30c0bc222d0a2d209c3b54bbf2445e5801f45fe4f0a2796dcbc571515bae3db5 (initial report from finance user)
+
+CASE_10320 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 6a4fa60c3c8f293d262f49737aa9646d4cedc77462289a87804b6e7a6712606b (test domain referenced in training doc)
+  - DOMAIN: timesonline.co.uk (test domain referenced in training doc)
+
+CASE_10217 | NEW | HIGH | artifacts=4
+------------------------------------------------
+Artifacts:
+  - IP: 95.86.179.81 (internal host mentioned in email thread)
+  - IP: 119.123.228.140 (internal host mentioned in email thread)
+  - FILE_HASH: 8a02ba49d35c20e3cc30fbf8de6708ace1b3c1a2e6b022591f95641fa3957195 (test domain referenced in training doc)
+  - DOMAIN: ca.gov (initial report from finance user)
+
+CASE_10676 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: eeab00116f165dd716821c19845a6a1844ee804af858412d50ab5409e3e1e62d (internal host mentioned in email thread)
+
+CASE_10963 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 194.16.16.46 (seen in firewall logs)
+  - FILE_HASH: 28dc5d5cbe476199f39731a03ed817bb07f017b9f30a27b0d48eb6241a1e818b (initial report from finance user)
+
+CASE_10406 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 225.56.251.204 (attachment hash)
+  - FILE_HASH: edeaeacfa4dda7c13c920506d59a2a8eeb2da1377205e5fe9a4fa767f06ad848 (attachment hash)
+
+CASE_10732 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e9afa4f3168edf8984de063fd69bf3bcbb1367ac26b91e1c3ffe7acd7a7d8a4b (internal host mentioned in email thread)
+  - FILE_HASH: 0e148a3ae045b7ee135bd3f7b75e87e8a6b2c7cab0616dab15440d544c383d72 (attachment hash)
+
+CASE_10799 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: tiny.cc (attachment hash)
+  - FILE_HASH: 33649138974ab62eb2dbed4d9efc7c40eb55a665d891af8fb907cd556133cef0 (test domain referenced in training doc)
+
+CASE_10363 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 09d922f9e125b8bab2e8d1f954fc1a1b1c3794b1692d6a1e9938302970d1aee2 (internal host mentioned in email thread)
+  - FILE_HASH: 4ab811c8b0cfd082e45dba68468a1f6aa13585fdcf8e2ecb2548785608b8019c (internal host mentioned in email thread)
+
+CASE_10626 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2951626a6575b8511dc19ed6408c2d0b353fb1844df34471d2b35a6e99e50d0b (seen in firewall logs)
+
+CASE_10812 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: bf4905642e3c04967e7976f3efb2c01923cd2110739a6ea766065691144a33d9 (phishy lookalike domain)
+
+CASE_10572 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 216b6b13c47b19348fa4e01eeed2c8e88796b6185a341998df0dd0dee29ba783 (phishy lookalike domain)
+
+CASE_10512 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 153.121.225.87 (test domain referenced in training doc)
+  - FILE_HASH: 49005005ac507e947ba4d2a55663914d3cd16c0cb7da9f7f34785b52beb76fa8 (test domain referenced in training doc)
+
+CASE_10496 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7e90269da5779864485b072e69e5891370aee9221e3e78aa5f93b555381399ac (internal host mentioned in email thread)
+
+CASE_10266 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: f2126e9d36d2660209a5d12a2bd4c75dc47832c660fd9702ae63c17e9d3dd607 (phishy lookalike domain)
+
+CASE_10501 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: c6abe7dffa98c907b0dc98868bb2c4d46d1424c1324883aae2cbcea204348b6c (internal host mentioned in email thread)
+
+CASE_1026 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 97a53042d220cdfe1890eb36ab34fd2f68df2176656ee86f40a7c557fd0fb429 (internal host mentioned in email thread)
+
+CASE_10180 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 4d89f09049bd9594c2182de8fecde05d4355bee2fc68ba2dd686d20ea792a9e6 (phishy lookalike domain)
+
+CASE_10344 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 59d8821b94357033899edd069166f9e29edbad73cc8ac25891d05d27de3d3a14 (initial report from finance user)
+  - DOMAIN: yandex.ru (seen in firewall logs)
+
+CASE_1010 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3d42fa41d7232ac821a17f919dee9cabac07a66fd96a77e06c6df608c040e53e (initial report from finance user)
+
+CASE_10538 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cbsnews.com (attachment hash)
+  - FILE_HASH: 4a5c5378871440c125312a384de49b29fc816f9df1521e1a88a1252376a929cb (initial report from finance user)
+
+CASE_10613 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: b8e1716bbf8ebfac992e8e1270db493384a7ab5dda769d135a662f8abf29e099 (internal host mentioned in email thread)
+  - DOMAIN: state.gov (initial report from finance user)
+
+CASE_10827 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 15a293a7c4c537154105b29dbc6a4d556869a78b0c09015f5f900d4ab5438d13 (internal host mentioned in email thread)
+
+CASE_10929 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 5df508e371f5a0a31119940ae5ac9e4f433ae5a35d2aeca026b0fcd15752e3e5 (test domain referenced in training doc)
+
+CASE_10658 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 253214b4a72be3f9b55e4012f73c092d35f88e343cccbce8507a1dccc7f26144 (phishy lookalike domain)
+  - DOMAIN: scribd.com (initial report from finance user)
+  - FILE_HASH: 22fbeb362dcd54d6908c6c50a1ca0f4268d14db4fface8d5cc2fdadc6e0dea54 (internal host mentioned in email thread)
+
+CASE_10356 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: df62212816396fb16b102a7c984e8f727fe2c399ae87ee7b015acd806a12c132 (initial report from finance user)
+  - IP: 8.133.191.140 (seen in firewall logs)
+
+CASE_10381 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: c00566c5c9cabc2800b6212145531271106861ae16a3a128f08f8f690ceb28d8 (initial report from finance user)
+
+CASE_10995 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 00c8d8e853df5850ad4bf66d07cdd39249abc14d523afc4045b61faafb6d3bbd (seen in firewall logs)
+  - DOMAIN: tinypic.com (test domain referenced in training doc)
+
+CASE_10103 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 696a2d51f9e01d04077da6a4d431d901352b4b300c08d8529a2ec51a193eb791 (test domain referenced in training doc)
+  - FILE_HASH: 1473d0eb40c8b671f3d1ed1bc933f90a89a1324456bbfe85cc065c20ce38800d (internal host mentioned in email thread)
+
+CASE_10927 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 61b9d0dd73c6f120f6523b4ab587a267df18cbb689daf321dcca7b6340c7b5e3 (phishy lookalike domain)
+
+CASE_10289 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: b04a7054cde21e9a1897f02b58c2d4e66bae348ef3440f7c0abd5153376baba8 (test domain referenced in training doc)
+  - IP: 238.147.8.225 (seen in firewall logs)
+
+CASE_10279 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 55a04b3de0363deb14bbadd90402a53f973c756f01bb1bac67e65114fc867ef4 (initial report from finance user)
+
+CASE_10515 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 46b80628e8385c72cc4c9bfa3581c11ef84905ca0644ca96799389147315192a (attachment hash)
+  - DOMAIN: state.tx.us (internal host mentioned in email thread)
+
+CASE_10776 | NEW | HIGH | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: t-online.de (phishy lookalike domain)
+  - FILE_HASH: 80c49c21d74830143165357b502ab7b16ffa41ab900e808f3c7990fa24b9bc2e (attachment hash)
+  - DOMAIN: telegraph.co.uk (test domain referenced in training doc)
+
+CASE_10104 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 74.222.171.188 (initial report from finance user)
+  - FILE_HASH: efc3f2eec05fdcd52223c477bc080f41749ac590c36769324afcc2876bbf4551 (initial report from finance user)
+
+CASE_10519 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2a85a71ef3ffac32c084ef32f78ca16f631033c6edf336f1fb697b82e99a3e14 (attachment hash)
+  - DOMAIN: pagesperso-orange.fr (internal host mentioned in email thread)
+
+CASE_10593 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ucsd.edu (seen in firewall logs)
+  - FILE_HASH: 3f0cab40218ef9d080b4fc049bcdf77ff9259cd141338118e32f08e905f8dd75 (attachment hash)
+
+CASE_10793 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 7bd5820c6a263bfdef935d8b0d28a92ca84260153f7a454e6ea06b6ef9f0246a (attachment hash)
+
+CASE_10651 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e1d9d6e08dcd77e07ed515b4129b5d556ecdd720e09b949df3a6b7f1f67ecff0 (attachment hash)
+
+CASE_10828 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8a39a2bc058e2b3456d35021ef41d4eb8242fed7f629356e3dcdbcb665fc9404 (initial report from finance user)
+
+CASE_10368 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a88ee4e42381dd4c130678dd6a328e2f8a6573f9e4f8a8140a786442daee4269 (seen in firewall logs)
+
+CASE_10415 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 05fa0ce6a893dea4b4df00bd9299be5c26643930b0419fa1cf637fc2edd8884a (internal host mentioned in email thread)
+
+CASE_10504 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 50a59a2a9ac3f0c5292826874e514ce3de5be006bc157102ce13def4c3dd7812 (internal host mentioned in email thread)
+
+CASE_10547 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 203b45803dc0bec995a632839a37e2eb03495bbbe56b31a78ef53998a6103d3f (phishy lookalike domain)
+
+CASE_10945 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 62.100.162.185 (initial report from finance user)
+  - FILE_HASH: 286d0bd33952d8c60c0dc708340e415732b71333b36e535bc236c3d43574d0c5 (initial report from finance user)
+
+CASE_10958 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 5808f2eeedd685621b3efb087e1ba382deefe77d85707dd0daf9a4c3f96b615c (internal host mentioned in email thread)
+  - DOMAIN: sogou.com (seen in firewall logs)
+
+CASE_10209 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: f015c470c7217eaf81f9ded04a4205470db4dd7756709e5a239757ae3ac1841d (phishy lookalike domain)
+
+CASE_10719 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e88e40d8ab4a8666ba064479af727c7f7101f0376cafaa47731e105c694e0cca (test domain referenced in training doc)
+
+CASE_10477 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3ca3a7e9d638af495c8384c09620ef9bac058a09f128f95c448962f343272d62 (seen in firewall logs)
+
+CASE_10434 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: fbd47def72b00bde5586fb17c448b9214055eba05d4de9dd0083de937c026c7d (phishy lookalike domain)
+
+CASE_1015 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a3c2509c144e4340866cf9ffe04e43394b286ffbc5a65bbb6bcbea4c82a88a16 (attachment hash)
+
+CASE_10455 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2245fe9ba8cbe63e4af2cdf9b26c93f58703ff6fb5183a46877d334a12fc3bbf (initial report from finance user)
+
+CASE_10167 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: cef266c928dce01f2882d054a02386d1fd1382cf052bae5e86fbd0f3ea44c15c (phishy lookalike domain)
+
+CASE_105 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 642236629d3ab586ec7b4f77cea64a2f941a0be379fb285a3034a1b33b0caa51 (seen in firewall logs)
+
+CASE_10537 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 205.217.97.94 (seen in firewall logs)
+  - FILE_HASH: 2ed9b8a486f805e57b123a7a8e0eb641189ee345d15974f141aeb6654a95af98 (attachment hash)
+
+CASE_10464 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: d1aa7895a2ebe041eca018d57bd3e639a3628a59f45f299594806591c7d2aec7 (seen in firewall logs)
+
+CASE_10992 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 9b510cfd9378a0e40f6e6bc380d1f2d97c77e824492103a6e5160c8aa6b4f3b2 (test domain referenced in training doc)
+
+CASE_10807 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 6c32ef4bd57d4e557c7356453dde33c2bd992ba324a0187eea0ab5059261463f (attachment hash)
+  - FILE_HASH: a943ab2fd024be4aefd6489b95fa27a835f9d4e9ba871f047eacde3efeb03d06 (initial report from finance user)
+
+CASE_1034 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: a9f4e13a2dab726d7f4b5fae739389373fc839d5577461f30cb5f4fefdd710c9 (seen in firewall logs)
+
+CASE_10596 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3d9d72fd3ed3e1b7284023ad2e99273a49dc2aa6cee812a4e896b62b7af4b346 (test domain referenced in training doc)
+
+CASE_10440 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3a5331867faa058ca98f14a6fbcea1824d9d3db16ba44f770e9363ed988eac7f (seen in firewall logs)
+  - FILE_HASH: d9dbe31a91c2120a566be1094ed630578989c7dd51c696f4226b6ba797627f67 (test domain referenced in training doc)
+
+CASE_10305 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 557238dc62ab3c8e394faa15bcaafb5ee4a39251854733ca2443a3af87b0d5f9 (seen in firewall logs)
+
+CASE_10484 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: f34162b1bd5ca6c80f87191e8ead32d68691db6653db7ad162bc5c2b4f86329d (test domain referenced in training doc)
+
+CASE_10166 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 6fe4d937d01cc771ab38acf4906ab5d65a85eca05f03227ae7f433b710e6a436 (phishy lookalike domain)
+
+CASE_10369 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 3be5451dfa7325a78d27775b2f2cc7a4705b373dabb3747704096b3a81c3916a (attachment hash)
+
+CASE_10342 | NEW | HIGH | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: mysql.com (seen in firewall logs)
+  - FILE_HASH: 3e1677a18a9e31addf0593e0ed6164a979f5d3988432c46e2c6a581b872fe8f0 (initial report from finance user)
+
+CASE_10252 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: cc44b6d24ed6bb9f9c877139c40d1d35120520d2d88afd91a57dc1e58625b44e (initial report from finance user)
+
+CASE_10855 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: b3ec577ce7c2c464e530d435b0310ab52a083ec1a6ec75dc9faa8c4c9cb3dab9 (test domain referenced in training doc)
+
+CASE_10249 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 4bb00cb6428a10fba8533bc65656129b75a705fee508d2ef39dffd3dcd19fe41 (seen in firewall logs)
+
+CASE_10402 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 8289c3803fa955d64d5363135e4478bcf4f7b259954d330c325c8e4faa8510ad (initial report from finance user)
+
+CASE_10941 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 28537f086439ced3b7627d16582b0c086f1568777bf4a106f847b520fb74cbbf (seen in firewall logs)
+
+CASE_10229 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2337e70d2b26cbe5306d5d4453d294f10cf3989c8960a833dcbb4ce8e5da402c (test domain referenced in training doc)
+
+CASE_10961 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 1ddad7513cd3a9596f08088945108e9171d886adb0e5e3ff0305eae4d0d5f34b (phishy lookalike domain)
+
+CASE_10671 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2719bde0ba9a08b8e7f43f82eb91816297bbeb83d8e455b6585a6085fc41feb4 (phishy lookalike domain)
+
+CASE_10156 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 01fdafe2abcb8a6fbd5ab93db439db8b02a785cd3f1230447f23c19ae0492fe5 (initial report from finance user)
+
+CASE_10299 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 1eccecb94d7fcb31c1269dadefbb4d65fd7b58cc8670e04ca2bd0acd08e999a9 (attachment hash)
+
+CASE_10689 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: e23bde8098c657a31fa4e85868c64a856e66c35847f090590c382f55e82ddce3 (seen in firewall logs)
+
+CASE_10147 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 0ab947f25e9b94234c390b30210718beb4935cd16d1c706fed5227e41307037a (test domain referenced in training doc)
+
+CASE_10207 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 2f62004466910bcd5106d1d2f4323cd3303f447b631a9687d73cccdfc57a9943 (initial report from finance user)
+
+CASE_1014 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 11e57b250ff14e68211b7f3a1629b23fdf342c0b0c5b72df4022af55039446a5 (internal host mentioned in email thread)
+
+CASE_10450 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 46c31417b0bea8b3a80e9487a361ebd6ec3c5ac38170b7b89ab8c4f4a4b1c5c2 (internal host mentioned in email thread)
+
+CASE_10683 | NEW | HIGH | artifacts=1
+------------------------------------------------
+Artifacts:
+  - FILE_HASH: 28b25262892f1b6b8b458371156cc78efd8637b195aae8a4af3fd9b2d423e898 (seen in firewall logs)
+
+CASE_10400 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 170.89.181.41 (test domain referenced in training doc)
+  - IP: 189.180.230.18 (phishy lookalike domain)
+  - DOMAIN: unicef.org (initial report from finance user)
+
+CASE_10473 | NEW | MEDIUM | artifacts=4
+------------------------------------------------
+Artifacts:
+  - DOMAIN: guardian.co.uk (attachment hash)
+  - IP: 209.38.80.255 (test domain referenced in training doc)
+  - IP: 103.64.253.213 (internal host mentioned in email thread)
+  - IP: 62.19.215.189 (test domain referenced in training doc)
+
+CASE_10332 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 188.167.208.55 (phishy lookalike domain)
+  - IP: 132.190.6.28 (initial report from finance user)
+
+CASE_10201 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 213.133.121.226 (test domain referenced in training doc)
+
+CASE_10953 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 198.225.112.50 (internal host mentioned in email thread)
+
+CASE_10801 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 247.83.216.174 (seen in firewall logs)
+
+CASE_10656 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: about.com (internal host mentioned in email thread)
+  - DOMAIN: indiatimes.com (internal host mentioned in email thread)
+  - IP: 13.230.246.152 (phishy lookalike domain)
+
+CASE_10107 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 43.249.129.220 (initial report from finance user)
+  - DOMAIN: t-online.de (test domain referenced in training doc)
+
+CASE_10600 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 70.8.65.140 (seen in firewall logs)
+
+CASE_10874 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: state.gov (initial report from finance user)
+  - IP: 20.81.197.244 (initial report from finance user)
+
+CASE_10524 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 244.25.128.241 (attachment hash)
+
+CASE_10609 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 8.66.18.220 (attachment hash)
+
+CASE_10741 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 60.105.128.216 (test domain referenced in training doc)
+
+CASE_10534 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 68.127.71.249 (internal host mentioned in email thread)
+  - IP: 18.121.206.118 (seen in firewall logs)
+
+CASE_10165 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: spotify.com (internal host mentioned in email thread)
+  - IP: 124.144.225.125 (attachment hash)
+
+CASE_10187 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 98.228.244.162 (test domain referenced in training doc)
+
+CASE_10649 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 122.137.89.203 (attachment hash)
+  - IP: 216.204.209.233 (internal host mentioned in email thread)
+
+CASE_10466 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 45.190.46.25 (initial report from finance user)
+  - DOMAIN: e-recht24.de (internal host mentioned in email thread)
+
+CASE_10374 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 31.30.1.148 (attachment hash)
+  - DOMAIN: cyberchimps.com (phishy lookalike domain)
+
+CASE_10548 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 230.32.83.5 (seen in firewall logs)
+  - IP: 2.191.77.254 (initial report from finance user)
+
+CASE_10688 | NEW | MEDIUM | artifacts=4
+------------------------------------------------
+Artifacts:
+  - IP: 44.194.227.134 (initial report from finance user)
+  - IP: 185.96.87.58 (attachment hash)
+  - DOMAIN: msu.edu (test domain referenced in training doc)
+  - IP: 233.222.224.133 (initial report from finance user)
+
+CASE_10718 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: scientificamerican.com (attachment hash)
+  - IP: 189.27.71.11 (initial report from finance user)
+
+CASE_10616 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 246.143.117.71 (seen in firewall logs)
+  - IP: 74.139.233.238 (initial report from finance user)
+
+CASE_10409 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 158.142.165.63 (phishy lookalike domain)
+
+CASE_10303 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: free.fr (test domain referenced in training doc)
+  - IP: 24.126.154.165 (initial report from finance user)
+  - IP: 3.152.250.189 (test domain referenced in training doc)
+
+CASE_10248 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 30.144.191.223 (initial report from finance user)
+
+CASE_10443 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 236.229.116.203 (initial report from finance user)
+
+CASE_10930 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 55.5.145.81 (phishy lookalike domain)
+  - IP: 220.87.253.86 (seen in firewall logs)
+
+CASE_10977 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 193.29.5.114 (attachment hash)
+
+CASE_10387 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 19.136.109.236 (seen in firewall logs)
+  - IP: 40.182.156.189 (initial report from finance user)
+
+CASE_10529 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 175.102.210.62 (test domain referenced in training doc)
+  - DOMAIN: psu.edu (phishy lookalike domain)
+
+CASE_1047 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cdbaby.com (phishy lookalike domain)
+  - DOMAIN: japanpost.jp (test domain referenced in training doc)
+  - IP: 66.137.77.191 (attachment hash)
+
+CASE_1054 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: umich.edu (attachment hash)
+  - IP: 24.255.47.107 (test domain referenced in training doc)
+
+CASE_10885 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 1.87.3.142 (attachment hash)
+
+CASE_10157 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 49.36.15.72 (initial report from finance user)
+  - IP: 104.92.237.225 (initial report from finance user)
+
+CASE_10502 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: prnewswire.com (seen in firewall logs)
+  - IP: 232.225.33.94 (internal host mentioned in email thread)
+  - IP: 171.255.170.193 (test domain referenced in training doc)
+
+CASE_10295 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: lycos.com (test domain referenced in training doc)
+  - IP: 78.71.228.125 (internal host mentioned in email thread)
+
+CASE_10516 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 51.53.162.86 (internal host mentioned in email thread)
+
+CASE_10354 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 65.170.139.227 (initial report from finance user)
+
+CASE_10728 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 146.13.175.93 (attachment hash)
+  - IP: 96.48.227.97 (attachment hash)
+
+CASE_10210 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 18.102.142.161 (initial report from finance user)
+  - IP: 98.33.94.221 (attachment hash)
+
+CASE_10985 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 51.202.178.74 (phishy lookalike domain)
+  - DOMAIN: samsung.com (attachment hash)
+  - DOMAIN: 123-reg.co.uk (internal host mentioned in email thread)
+
+CASE_10453 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 67.52.76.9 (seen in firewall logs)
+  - IP: 59.203.146.64 (attachment hash)
+
+CASE_104 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 51.135.109.245 (phishy lookalike domain)
+
+CASE_1091 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 18.85.28.208 (attachment hash)
+  - IP: 57.66.25.223 (attachment hash)
+
+CASE_10298 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 241.37.142.215 (attachment hash)
+
+CASE_1025 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 32.147.112.62 (phishy lookalike domain)
+
+CASE_10468 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 231.109.193.49 (attachment hash)
+
+CASE_10553 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 184.134.153.129 (initial report from finance user)
+
+CASE_10557 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 92.122.84.40 (seen in firewall logs)
+  - DOMAIN: slate.com (test domain referenced in training doc)
+  - DOMAIN: google.com.au (initial report from finance user)
+
+CASE_10336 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 8.47.109.128 (internal host mentioned in email thread)
+  - DOMAIN: examiner.com (test domain referenced in training doc)
+
+CASE_10962 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 86.124.236.131 (attachment hash)
+  - IP: 23.21.85.134 (test domain referenced in training doc)
+
+CASE_10177 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 72.114.86.146 (seen in firewall logs)
+
+CASE_10936 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 244.58.187.131 (test domain referenced in training doc)
+  - DOMAIN: blog.com (internal host mentioned in email thread)
+
+CASE_10574 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 77.220.207.30 (attachment hash)
+  - IP: 59.35.197.72 (internal host mentioned in email thread)
+
+CASE_101000 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 149.231.242.21 (test domain referenced in training doc)
+
+CASE_10391 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 123.83.117.253 (test domain referenced in training doc)
+  - DOMAIN: narod.ru (attachment hash)
+
+CASE_10122 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 155.7.26.26 (test domain referenced in training doc)
+
+CASE_1039 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: friendfeed.com (seen in firewall logs)
+  - IP: 252.240.12.38 (attachment hash)
+
+CASE_10836 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: msn.com (phishy lookalike domain)
+  - IP: 250.203.24.154 (initial report from finance user)
+  - DOMAIN: 1688.com (test domain referenced in training doc)
+
+CASE_10792 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: livejournal.com (test domain referenced in training doc)
+  - IP: 114.73.87.199 (attachment hash)
+
+CASE_10341 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 92.97.135.53 (phishy lookalike domain)
+
+CASE_10276 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 205.189.187.35 (seen in firewall logs)
+
+CASE_10509 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 82.119.229.39 (seen in firewall logs)
+  - IP: 107.25.150.66 (internal host mentioned in email thread)
+
+CASE_10503 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - IP: 95.228.186.72 (internal host mentioned in email thread)
+  - DOMAIN: washington.edu (initial report from finance user)
+  - DOMAIN: 4shared.com (attachment hash)
+
+CASE_10388 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 97.171.61.63 (initial report from finance user)
+
+CASE_10568 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 172.7.131.189 (attachment hash)
+
+CASE_10296 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 229.129.73.216 (initial report from finance user)
+  - IP: 98.213.160.168 (initial report from finance user)
+
+CASE_10349 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 177.232.132.18 (seen in firewall logs)
+
+CASE_10323 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: domainmarket.com (seen in firewall logs)
+  - IP: 220.239.2.74 (test domain referenced in training doc)
+
+CASE_10597 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 63.176.38.249 (seen in firewall logs)
+  - IP: 86.162.75.11 (seen in firewall logs)
+
+CASE_10384 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 100.57.36.74 (attachment hash)
+  - DOMAIN: chicagotribune.com (phishy lookalike domain)
+
+CASE_10729 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: homestead.com (seen in firewall logs)
+  - IP: 88.81.25.52 (test domain referenced in training doc)
+
+CASE_10837 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: naver.com (initial report from finance user)
+  - IP: 58.241.121.14 (seen in firewall logs)
+
+CASE_10746 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: newyorker.com (attachment hash)
+  - DOMAIN: cbc.ca (phishy lookalike domain)
+  - IP: 34.167.20.95 (seen in firewall logs)
+
+CASE_10281 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 200.149.188.250 (initial report from finance user)
+
+CASE_10922 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 161.71.45.215 (phishy lookalike domain)
+
+CASE_1053 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 148.234.223.68 (attachment hash)
+  - DOMAIN: un.org (test domain referenced in training doc)
+
+CASE_10702 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 38.52.157.114 (seen in firewall logs)
+
+CASE_10219 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 70.144.61.210 (test domain referenced in training doc)
+
+CASE_10775 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 27.252.110.174 (test domain referenced in training doc)
+  - IP: 51.32.109.71 (attachment hash)
+
+CASE_10102 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 207.29.42.99 (phishy lookalike domain)
+
+CASE_10152 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 218.111.58.225 (test domain referenced in training doc)
+
+CASE_10722 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 18.76.77.235 (attachment hash)
+  - DOMAIN: elegantthemes.com (attachment hash)
+
+CASE_10498 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 108.58.59.119 (test domain referenced in training doc)
+
+CASE_10571 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 173.183.240.34 (internal host mentioned in email thread)
+
+CASE_10462 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: bandcamp.com (seen in firewall logs)
+  - IP: 107.55.170.166 (seen in firewall logs)
+
+CASE_1088 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 130.158.31.78 (seen in firewall logs)
+
+CASE_10632 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 155.150.204.29 (attachment hash)
+
+CASE_10222 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 110.29.232.50 (phishy lookalike domain)
+
+CASE_10382 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 79.52.209.220 (test domain referenced in training doc)
+
+CASE_10694 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 142.220.168.7 (seen in firewall logs)
+
+CASE_10906 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 23.37.4.44 (test domain referenced in training doc)
+
+CASE_10820 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 48.191.144.25 (phishy lookalike domain)
+
+CASE_10499 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: bing.com (seen in firewall logs)
+  - IP: 102.199.207.64 (seen in firewall logs)
+
+CASE_1072 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 168.57.5.112 (attachment hash)
+
+CASE_10421 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 203.7.106.191 (test domain referenced in training doc)
+
+CASE_10461 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 164.167.67.90 (attachment hash)
+
+CASE_10164 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 177.143.23.75 (internal host mentioned in email thread)
+
+CASE_1057 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 237.183.240.245 (test domain referenced in training doc)
+  - IP: 190.218.194.27 (phishy lookalike domain)
+
+CASE_10472 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 138.224.254.67 (seen in firewall logs)
+
+CASE_1084 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 0.155.107.64 (initial report from finance user)
+
+CASE_10437 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: 123-reg.co.uk (attachment hash)
+  - IP: 167.109.49.43 (phishy lookalike domain)
+  - IP: 151.119.60.251 (attachment hash)
+
+CASE_10891 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 22.237.231.154 (test domain referenced in training doc)
+  - IP: 57.43.84.106 (phishy lookalike domain)
+
+CASE_10714 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 0.224.105.89 (internal host mentioned in email thread)
+  - IP: 50.81.121.166 (internal host mentioned in email thread)
+
+CASE_10779 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 160.18.151.22 (attachment hash)
+  - DOMAIN: discuz.net (seen in firewall logs)
+
+CASE_10171 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 58.72.232.49 (internal host mentioned in email thread)
+
+CASE_10738 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: google.fr (test domain referenced in training doc)
+  - IP: 164.190.78.191 (phishy lookalike domain)
+
+CASE_10983 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 241.47.147.107 (attachment hash)
+  - DOMAIN: cpanel.net (internal host mentioned in email thread)
+
+CASE_10587 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 130.110.150.218 (attachment hash)
+
+CASE_10478 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 166.208.21.252 (test domain referenced in training doc)
+
+CASE_10480 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: facebook.com (internal host mentioned in email thread)
+  - IP: 197.148.45.206 (test domain referenced in training doc)
+  - IP: 214.92.239.205 (phishy lookalike domain)
+
+CASE_1012 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 192.155.16.177 (phishy lookalike domain)
+
+CASE_10783 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 155.109.113.194 (initial report from finance user)
+
+CASE_1023 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 106.86.75.20 (internal host mentioned in email thread)
+
+CASE_10844 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 31.209.116.245 (initial report from finance user)
+
+CASE_10589 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 52.94.184.130 (phishy lookalike domain)
+  - IP: 0.192.109.124 (phishy lookalike domain)
+
+CASE_10705 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 8.165.138.6 (test domain referenced in training doc)
+  - IP: 64.8.182.88 (attachment hash)
+
+CASE_10798 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 159.108.51.217 (test domain referenced in training doc)
+
+CASE_10749 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 164.46.60.176 (internal host mentioned in email thread)
+
+CASE_1045 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 85.20.129.176 (test domain referenced in training doc)
+  - IP: 90.42.147.175 (attachment hash)
+
+CASE_10141 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 62.37.182.2 (test domain referenced in training doc)
+
+CASE_10892 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 57.243.126.245 (initial report from finance user)
+  - IP: 139.77.250.150 (phishy lookalike domain)
+
+CASE_10297 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 182.189.122.38 (phishy lookalike domain)
+  - IP: 53.214.114.15 (test domain referenced in training doc)
+
+CASE_10555 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 171.180.16.23 (internal host mentioned in email thread)
+
+CASE_10136 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 253.77.39.6 (initial report from finance user)
+
+CASE_10652 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: dot.gov (test domain referenced in training doc)
+  - IP: 156.231.120.15 (phishy lookalike domain)
+  - IP: 194.67.113.193 (internal host mentioned in email thread)
+
+CASE_10973 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 168.254.182.147 (internal host mentioned in email thread)
+
+CASE_10981 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 95.236.91.48 (internal host mentioned in email thread)
+
+CASE_1093 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: blinklist.com (attachment hash)
+  - IP: 100.106.195.32 (initial report from finance user)
+
+CASE_10947 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: buzzfeed.com (internal host mentioned in email thread)
+  - IP: 57.88.253.248 (phishy lookalike domain)
+
+CASE_10633 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 196.149.98.5 (attachment hash)
+
+CASE_10594 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 254.238.158.213 (attachment hash)
+
+CASE_10721 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 161.51.47.225 (phishy lookalike domain)
+  - DOMAIN: chron.com (test domain referenced in training doc)
+
+CASE_10862 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 236.60.127.242 (initial report from finance user)
+
+CASE_10554 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 106.12.23.108 (initial report from finance user)
+
+CASE_10371 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 13.172.237.102 (attachment hash)
+
+CASE_10907 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 120.200.108.240 (phishy lookalike domain)
+
+CASE_1043 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 167.76.165.173 (initial report from finance user)
+  - IP: 46.72.159.67 (initial report from finance user)
+
+CASE_10771 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 110.111.71.81 (seen in firewall logs)
+
+CASE_10576 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 79.235.20.225 (attachment hash)
+
+CASE_10879 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 74.232.109.123 (internal host mentioned in email thread)
+
+CASE_10446 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 197.83.233.223 (test domain referenced in training doc)
+
+CASE_10518 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 230.218.108.251 (internal host mentioned in email thread)
+
+CASE_10564 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 18.94.237.60 (internal host mentioned in email thread)
+
+CASE_10159 | NEW | MEDIUM | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: twitter.com (seen in firewall logs)
+  - IP: 216.45.212.188 (phishy lookalike domain)
+  - DOMAIN: stumbleupon.com (internal host mentioned in email thread)
+
+CASE_10781 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 210.50.198.172 (internal host mentioned in email thread)
+
+CASE_10857 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 151.64.16.133 (test domain referenced in training doc)
+
+CASE_10193 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: wp.com (attachment hash)
+  - IP: 54.100.249.39 (initial report from finance user)
+
+CASE_10567 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 231.161.199.100 (internal host mentioned in email thread)
+
+CASE_10954 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 88.162.209.226 (attachment hash)
+
+CASE_10720 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 11.28.29.56 (internal host mentioned in email thread)
+
+CASE_10636 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 53.199.141.104 (phishy lookalike domain)
+
+CASE_10163 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 243.222.235.231 (attachment hash)
+
+CASE_10818 | NEW | MEDIUM | artifacts=2
+------------------------------------------------
+Artifacts:
+  - IP: 214.93.61.182 (initial report from finance user)
+  - IP: 71.87.255.184 (test domain referenced in training doc)
+
+CASE_10234 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 158.216.165.172 (test domain referenced in training doc)
+
+CASE_10999 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 123.176.110.18 (attachment hash)
+
+CASE_10489 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 246.168.78.118 (seen in firewall logs)
+
+CASE_10603 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 130.133.25.113 (internal host mentioned in email thread)
+
+CASE_10765 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 162.68.19.167 (internal host mentioned in email thread)
+
+CASE_10142 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 33.207.128.74 (initial report from finance user)
+
+CASE_10645 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 54.211.157.199 (initial report from finance user)
+
+CASE_10758 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 34.185.170.14 (attachment hash)
+
+CASE_10672 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 121.103.204.93 (seen in firewall logs)
+
+CASE_10563 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 30.161.134.75 (seen in firewall logs)
+
+CASE_10230 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 8.181.193.88 (initial report from finance user)
+
+CASE_10821 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 100.218.83.144 (test domain referenced in training doc)
+
+CASE_10154 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 233.101.163.178 (phishy lookalike domain)
+
+CASE_10530 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 205.130.64.19 (seen in firewall logs)
+
+CASE_10951 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 189.246.17.162 (test domain referenced in training doc)
+
+CASE_10108 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 240.182.110.95 (internal host mentioned in email thread)
+
+CASE_10867 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 12.67.21.143 (test domain referenced in training doc)
+
+CASE_10614 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 239.139.151.242 (seen in firewall logs)
+
+CASE_1060 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 96.200.185.45 (seen in firewall logs)
+
+CASE_10642 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 60.30.8.33 (initial report from finance user)
+
+CASE_10755 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 228.134.128.102 (test domain referenced in training doc)
+
+CASE_1080 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 189.140.20.0 (attachment hash)
+
+CASE_10675 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 240.195.148.207 (seen in firewall logs)
+
+CASE_10175 | NEW | MEDIUM | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 65.240.198.131 (attachment hash)
+
+CASE_10551 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: bing.com (phishy lookalike domain)
+
+CASE_10914 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: webs.com (phishy lookalike domain)
+
+CASE_1030 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ftc.gov (phishy lookalike domain)
+  - DOMAIN: forbes.com (attachment hash)
+
+CASE_10291 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: fda.gov (initial report from finance user)
+
+CASE_10436 | NEW | LOW | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: over-blog.com (initial report from finance user)
+  - DOMAIN: taobao.com (attachment hash)
+  - DOMAIN: guardian.co.uk (attachment hash)
+
+CASE_10121 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: spotify.com (internal host mentioned in email thread)
+
+CASE_10965 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: baidu.com (test domain referenced in training doc)
+
+CASE_10786 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: phpbb.com (seen in firewall logs)
+  - DOMAIN: privacy.gov.au (attachment hash)
+
+CASE_10242 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: reference.com (phishy lookalike domain)
+
+CASE_10401 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: hud.gov (attachment hash)
+
+CASE_10895 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: merriam-webster.com (internal host mentioned in email thread)
+
+CASE_10621 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: barnesandnoble.com (phishy lookalike domain)
+
+CASE_10748 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: gizmodo.com (attachment hash)
+
+CASE_10317 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: simplemachines.org (phishy lookalike domain)
+
+CASE_10216 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: netscape.com (test domain referenced in training doc)
+
+CASE_10665 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: moonfruit.com (test domain referenced in training doc)
+
+CASE_10770 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: webs.com (seen in firewall logs)
+
+CASE_10882 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: xrea.com (phishy lookalike domain)
+
+CASE_10254 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: g.co (phishy lookalike domain)
+  - DOMAIN: stanford.edu (attachment hash)
+
+CASE_10560 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: psu.edu (seen in firewall logs)
+
+CASE_10639 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: php.net (seen in firewall logs)
+  - DOMAIN: sciencedirect.com (initial report from finance user)
+
+CASE_10283 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: epa.gov (seen in firewall logs)
+  - DOMAIN: flavors.me (initial report from finance user)
+
+CASE_10740 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: sourceforge.net (initial report from finance user)
+
+CASE_10824 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: icio.us (seen in firewall logs)
+
+CASE_10976 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: purevolume.com (test domain referenced in training doc)
+
+CASE_10948 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: dmoz.org (phishy lookalike domain)
+
+CASE_10348 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: reuters.com (initial report from finance user)
+  - DOMAIN: amazon.com (phishy lookalike domain)
+
+CASE_10301 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ow.ly (seen in firewall logs)
+  - DOMAIN: hud.gov (initial report from finance user)
+
+CASE_10146 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: wix.com (attachment hash)
+
+CASE_10591 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: europa.eu (attachment hash)
+  - DOMAIN: icq.com (phishy lookalike domain)
+
+CASE_1069 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: seesaa.net (attachment hash)
+
+CASE_10429 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: wired.com (internal host mentioned in email thread)
+  - DOMAIN: soundcloud.com (initial report from finance user)
+
+CASE_10362 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: google.it (test domain referenced in training doc)
+
+CASE_10399 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: miibeian.gov.cn (test domain referenced in training doc)
+  - DOMAIN: bloomberg.com (phishy lookalike domain)
+
+CASE_10699 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: prlog.org (phishy lookalike domain)
+
+CASE_10145 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: abc.net.au (attachment hash)
+  - DOMAIN: fotki.com (initial report from finance user)
+
+CASE_10899 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ftc.gov (attachment hash)
+
+CASE_10637 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ow.ly (internal host mentioned in email thread)
+
+CASE_10432 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: twitter.com (attachment hash)
+
+CASE_10752 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: java.com (attachment hash)
+
+CASE_10398 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ow.ly (attachment hash)
+
+CASE_10785 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: yahoo.co.jp (seen in firewall logs)
+
+CASE_1076 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: github.io (initial report from finance user)
+  - DOMAIN: rakuten.co.jp (internal host mentioned in email thread)
+
+CASE_10579 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ftc.gov (seen in firewall logs)
+
+CASE_10294 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: foxnews.com (phishy lookalike domain)
+
+CASE_1086 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: yahoo.co.jp (attachment hash)
+
+CASE_10267 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: google.com.br (internal host mentioned in email thread)
+
+CASE_10338 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: blogger.com (phishy lookalike domain)
+
+CASE_10669 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: reddit.com (phishy lookalike domain)
+
+CASE_10188 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: w3.org (test domain referenced in training doc)
+  - DOMAIN: bbc.co.uk (internal host mentioned in email thread)
+
+CASE_10870 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: sogou.com (seen in firewall logs)
+
+CASE_10505 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: mashable.com (internal host mentioned in email thread)
+
+CASE_10211 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: amazon.co.jp (attachment hash)
+
+CASE_10583 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ox.ac.uk (phishy lookalike domain)
+
+CASE_10418 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: surveymonkey.com (test domain referenced in training doc)
+
+CASE_10987 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: youtu.be (seen in firewall logs)
+  - DOMAIN: google.it (initial report from finance user)
+
+CASE_10664 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ocn.ne.jp (attachment hash)
+
+CASE_10148 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: slideshare.net (phishy lookalike domain)
+
+CASE_10495 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: exblog.jp (attachment hash)
+
+CASE_10522 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: dedecms.com (phishy lookalike domain)
+
+CASE_10897 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: wikipedia.org (attachment hash)
+  - DOMAIN: angelfire.com (initial report from finance user)
+
+CASE_10199 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: xinhuanet.com (test domain referenced in training doc)
+
+CASE_10768 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: rakuten.co.jp (attachment hash)
+  - DOMAIN: last.fm (attachment hash)
+
+CASE_10431 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: jalbum.net (test domain referenced in training doc)
+
+CASE_1028 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: jiathis.com (seen in firewall logs)
+
+CASE_10139 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: amazonaws.com (internal host mentioned in email thread)
+
+CASE_10735 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ucoz.com (initial report from finance user)
+
+CASE_10769 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ovh.net (test domain referenced in training doc)
+
+CASE_10224 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: state.gov (internal host mentioned in email thread)
+
+CASE_10184 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cargocollective.com (phishy lookalike domain)
+
+CASE_10271 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: t.co (seen in firewall logs)
+
+CASE_10631 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cbsnews.com (phishy lookalike domain)
+
+CASE_1038 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: imageshack.us (attachment hash)
+  - DOMAIN: ucla.edu (initial report from finance user)
+
+CASE_10573 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: forbes.com (phishy lookalike domain)
+  - DOMAIN: ted.com (phishy lookalike domain)
+
+CASE_10986 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - IP: 10.52.10.57 (internal host mentioned in email thread)
+
+CASE_10884 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: craigslist.org (initial report from finance user)
+
+CASE_1092 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: dell.com (phishy lookalike domain)
+
+CASE_10246 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: newsvine.com (attachment hash)
+
+CASE_10924 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: usa.gov (attachment hash)
+
+CASE_1074 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: creativecommons.org (phishy lookalike domain)
+
+CASE_1041 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ning.com (phishy lookalike domain)
+
+CASE_10397 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: php.net (attachment hash)
+
+CASE_10588 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: chicagotribune.com (test domain referenced in training doc)
+
+CASE_10423 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: flickr.com (initial report from finance user)
+
+CASE_1056 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: google.cn (internal host mentioned in email thread)
+
+CASE_10448 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: umich.edu (attachment hash)
+  - DOMAIN: pagesperso-orange.fr (phishy lookalike domain)
+
+CASE_10454 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: bluehost.com (attachment hash)
+
+CASE_10668 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: adobe.com (seen in firewall logs)
+
+CASE_1098 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: slashdot.org (internal host mentioned in email thread)
+
+CASE_10334 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: 123-reg.co.uk (initial report from finance user)
+
+CASE_10546 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: house.gov (initial report from finance user)
+
+CASE_10321 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: nytimes.com (initial report from finance user)
+
+CASE_10214 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: reference.com (internal host mentioned in email thread)
+
+CASE_10533 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: nih.gov (test domain referenced in training doc)
+  - DOMAIN: usatoday.com (internal host mentioned in email thread)
+
+CASE_10759 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: seesaa.net (attachment hash)
+
+CASE_10859 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: 163.com (internal host mentioned in email thread)
+
+CASE_10860 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: uiuc.edu (seen in firewall logs)
+
+CASE_1075 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: rambler.ru (phishy lookalike domain)
+
+CASE_10916 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: nytimes.com (initial report from finance user)
+
+CASE_10435 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: alibaba.com (test domain referenced in training doc)
+
+CASE_10808 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: sbwire.com (seen in firewall logs)
+
+CASE_1011 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: pen.io (test domain referenced in training doc)
+
+CASE_10667 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: flickr.com (phishy lookalike domain)
+
+CASE_1078 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: jigsy.com (phishy lookalike domain)
+
+CASE_10663 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: economist.com (test domain referenced in training doc)
+
+CASE_10650 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: facebook.com (phishy lookalike domain)
+
+CASE_10140 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: hhs.gov (seen in firewall logs)
+
+CASE_10778 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: purevolume.com (initial report from finance user)
+
+CASE_10500 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: admin.ch (phishy lookalike domain)
+
+CASE_10105 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: netscape.com (test domain referenced in training doc)
+
+CASE_10690 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ibm.com (attachment hash)
+
+CASE_10192 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: unesco.org (attachment hash)
+
+CASE_10425 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cargocollective.com (internal host mentioned in email thread)
+
+CASE_10774 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: tinypic.com (attachment hash)
+
+CASE_10931 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: odnoklassniki.ru (phishy lookalike domain)
+
+CASE_10433 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: unicef.org (initial report from finance user)
+
+CASE_1068 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: bigcartel.com (internal host mentioned in email thread)
+
+CASE_10372 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: baidu.com (seen in firewall logs)
+
+CASE_10393 | NEW | LOW | artifacts=3
+------------------------------------------------
+Artifacts:
+  - DOMAIN: hao123.com (test domain referenced in training doc)
+  - DOMAIN: bbc.co.uk (initial report from finance user)
+  - DOMAIN: netvibes.com (initial report from finance user)
+
+CASE_10635 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: rakuten.co.jp (internal host mentioned in email thread)
+
+CASE_10528 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: china.com.cn (attachment hash)
+
+CASE_10520 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: 4shared.com (phishy lookalike domain)
+
+CASE_10471 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: accuweather.com (initial report from finance user)
+
+CASE_10996 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: example.com (internal host mentioned in email thread)
+
+CASE_10763 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: vimeo.com (seen in firewall logs)
+
+CASE_10282 | NEW | LOW | artifacts=2
+------------------------------------------------
+Artifacts:
+  - DOMAIN: wordpress.org (seen in firewall logs)
+  - DOMAIN: epa.gov (seen in firewall logs)
+
+CASE_10531 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: free.fr (attachment hash)
+
+CASE_10706 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: irs.gov (internal host mentioned in email thread)
+
+CASE_10727 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: telegraph.co.uk (initial report from finance user)
+
+CASE_10367 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: cargocollective.com (internal host mentioned in email thread)
+
+CASE_10278 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: livejournal.com (test domain referenced in training doc)
+
+CASE_10592 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: photobucket.com (attachment hash)
+
+CASE_10921 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: ow.ly (phishy lookalike domain)
+
+CASE_10377 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: tinypic.com (phishy lookalike domain)
+
+CASE_10360 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: examiner.com (seen in firewall logs)
+
+CASE_10915 | NEW | LOW | artifacts=1
+------------------------------------------------
+Artifacts:
+  - DOMAIN: youtu.be (attachment hash)
+
